@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 14041,
+  "changeIdentifier": 14077,
   "do_objectID": "B81BB769-35BB-4592-800E-22E925447F7B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -43,30 +43,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "B96F71E8-A004-4779-B540-A54CF1206A42"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "8653AC75-C5DF-4B40-B562-2FE020FA186F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F9758F3A-F52E-4465-B0FD-30626B4C5A16"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0AA42D23-F1BD-45C9-9560-AB37A3E6BD7A"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A1D819A6-1D7E-4694-881D-96CFB28AF9E7"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "DF2AF2D7-0E71-4FED-8233-86E909EC49E8"
-    },
     {
       "class": "shapeGroup",
       "id": "FAE2A6AB-DAFF-4137-B106-79D43D0B7F18"

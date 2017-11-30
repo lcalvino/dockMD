@@ -16,7 +16,7 @@
     "height": 70,
     "width": 1024,
     "x": 0,
-    "y": 1677
+    "y": 2708
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,7 +25,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Tab bar",

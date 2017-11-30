@@ -91,7 +91,7 @@
         "blurRadius": 0,
         "color": {
           "_class": "color",
-          "alpha": 0.3,
+          "alpha": 0.2,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -103,7 +103,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": -0.5,
+        "offsetY": -1,
         "spread": 0
       }
     ],
