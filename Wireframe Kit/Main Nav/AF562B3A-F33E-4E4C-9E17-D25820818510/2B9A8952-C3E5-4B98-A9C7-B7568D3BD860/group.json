@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "681B31E4-4282-4831-AE42-DF8290C7E6E3",
+  "_class": "group",
+  "do_objectID": "2B9A8952-C3E5-4B98-A9C7-B7568D3BD860",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,19 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 8,
+    "width": 8,
+    "x": 993.9497474683059,
+    "y": 19.77817459305197
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -569,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -33,26 +26,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "AF562B3A-F33E-4E4C-9E17-D25820818510"
+      "class": "group",
+      "id": "CC196101-F960-4CEE-A7C3-E81DAA9FD522"
     }
   ],
-  "name": "Main Nav",
-  "nameIsFixed": true,
+  "name": "Group 5",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -45,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -346,
-    "guides": [
-    ]
   }
 }
