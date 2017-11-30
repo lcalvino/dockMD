@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "8205011C-5365-48F2-AD51-6C2E60B63D20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 550,
+    "x": 570,
+    "y": 249
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4636125C-EE5B-4316-9540-A04EA7EC0E5B"
+    },
+    {
+      "class": "text",
+      "id": "43D60F6B-251D-4CC4-BC00-8FD10ED7ACD8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA075EE4-DA37-482F-B475-35A81F40A0DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E5528EFF-8030-42B1-998C-D8AE41932538"
+    }
+  ],
+  "name": "City",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

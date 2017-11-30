@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXF1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNTo+QkpLTE1OUlZYVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADXxD9TG9naW4KTG9naW4gRXJyb3IKRm9yZ290IFBhc3N3b3JkClJlc2V0IFBhc3N3b3JkClJlc2V0IFBhc3N3b3JkIEVtYWlsCk5ldyBQYXNzd29yZApIZWFkZXIgd2l0aCBwcm9maWxlClNpZGViYXIKCkNvbnRhaW5lciBkYXRhClJlcG9ydCBsaW5lIGNoYXJ0IAoyIGNvbHVtcyAtIDMgY29sdW1zCmRheSBwaWNrZXIKZHJvcGRvd24gCmFjCnVzZXIgbWVudQpzZWFyY2ggcmVzdWx0CnZhbGlkYXRpb24KVGFibGUKRm9ybQpNb2RhbApGb290ZXIKRWRpdNMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA2AFVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4yNjY2NjY2NjY3IDAuMjY2NjY2NjY2NyAwLjI2NjY2NjY2NjcAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx0zYKNyQ4OV8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25aTlNUYWJTdG9wc4AMgADSLC07PF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozs9MV8QEE5TUGFyYWdyYXBoU3R5bGXSCj9AQV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMREgpDRkmiREWAD4AQokdIgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQEQAAAAAAABfEBJIZWx2ZXRpY2FOZXVlLUJvbGTSLC1PUF8QE05TTXV0YWJsZURpY3Rpb25hcnmjT1ExXE5TRGljdGlvbmFyedIsLVNUXxAQTlNGb250RGVzY3JpcHRvcqJVMV8QEE5TRm9udERlc2NyaXB0b3LSLC1RV6JRMdIsLVlaXxASTlNBdHRyaWJ1dGVkU3RyaW5nolsxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0V5fVHJvb3SAAQAIABEAGgAjAC0AMgA3AFEAVwBeAGcAbgB7AH0AfwCBAYEBiAGQAZsBnwGhAaMBpQGpAasBrQGvAbEBuQHMAe4B9wH9AgoCHwJJAksCTQJPAlQCWQJbAl0CYgJtAnYCgwKGApMCnAKhAqkCrAKzAtUC4ALiAuQC6QMDAwcDGgMfAzwDPgNAA0cDSgNMA04DUQNTA1UDVwNtA4MDjAOhA6YDvAPAA80D0gPlA+gD+wQABAMECAQdBCAENQRHBEoETwAAAAAAAAIBAAAAAAAAAGAAAAAAAAAAAAAAAAAAAARR"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "683575BD-A7FC-4A69-93F7-34A088A3FD87",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 600,
+    "x": 18,
+    "y": 40
+  },
+  "glyphBounds": "{{0, 10}, {425, 1086}}",
+  "heightIsClipped": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Example",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "7B5E4E10-DF99-471A-BBE1-56C47C7A5FF5"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.library/sync": {
+      "style": {
+        "colorAlpha": 1,
+        "colorHex": "#444444",
+        "fontPostscriptName": "HelveticaNeue-Bold",
+        "fontSize": 40,
+        "lineHeight": 49,
+        "text": "Login\nLogin Error\nForgot Password\nReset Password\nReset Password Email\nNew Password\nHeader with profile\nSidebar\n\nContainer data\nReport line chart \n2 colums - 3 colums\nday picker\ndropdown \nac\nuser menu\nsearch result\nvalidation\nTable\nForm\nModal\nFooter\nEdit"
+      }
+    }
+  }
+}

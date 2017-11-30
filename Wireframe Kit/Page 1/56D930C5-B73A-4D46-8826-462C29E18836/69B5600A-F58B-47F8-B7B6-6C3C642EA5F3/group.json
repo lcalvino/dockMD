@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "69B5600A-F58B-47F8-B7B6-6C3C642EA5F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 355,
+    "width": 580,
+    "x": 770,
+    "y": 900
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B8C79880-DF4F-4A06-A3A6-ACD3DCFD7DBA"
+    },
+    {
+      "class": "group",
+      "id": "FC13B02C-19E5-47E4-8F3C-A30CA440A3EB"
+    },
+    {
+      "class": "group",
+      "id": "805D5ACD-7B98-4323-A869-9CD41933E62E"
+    },
+    {
+      "class": "group",
+      "id": "2A6C1613-0842-4898-8579-C968E3537E59"
+    },
+    {
+      "class": "group",
+      "id": "5B1A51D4-C296-46EC-BC20-9AD8238C918E"
+    },
+    {
+      "class": "group",
+      "id": "4B078A50-7669-43A1-862C-4EF0D20EC5FB"
+    }
+  ],
+  "name": "Downgrades",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

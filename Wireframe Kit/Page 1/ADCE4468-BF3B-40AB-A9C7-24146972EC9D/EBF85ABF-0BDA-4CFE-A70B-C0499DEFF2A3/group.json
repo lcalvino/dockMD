@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "EBF85ABF-0BDA-4CFE-A70B-C0499DEFF2A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 400,
+    "width": 400,
+    "x": 520,
+    "y": 320
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8A745912-5A84-41E7-8465-F4081567C073"
+    },
+    {
+      "class": "text",
+      "id": "D4F24771-2942-4B21-BF4C-CE93F4D47A38"
+    },
+    {
+      "class": "group",
+      "id": "A2A23C5A-449E-4214-A43F-442D22AC1424"
+    },
+    {
+      "class": "group",
+      "id": "63F9E885-A9FD-4D3E-8F0E-03AD7A4A7FAE"
+    },
+    {
+      "class": "group",
+      "id": "7A241E24-24CD-46FA-B269-129684624E30"
+    },
+    {
+      "class": "text",
+      "id": "48C4ECE5-7803-406F-80AC-11DABE9698DF"
+    }
+  ],
+  "name": "Login Form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
