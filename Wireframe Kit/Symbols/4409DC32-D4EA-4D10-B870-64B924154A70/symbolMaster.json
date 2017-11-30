@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 399,
+  "changeIdentifier": 400,
   "do_objectID": "4409DC32-D4EA-4D10-B870-64B924154A70",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "Glyphs/Tab Bar Icons/Favorite/Inactive",
   "nameIsFixed": true,
+  "originalObjectID": "4409DC32-D4EA-4D10-B870-64B924154A70",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

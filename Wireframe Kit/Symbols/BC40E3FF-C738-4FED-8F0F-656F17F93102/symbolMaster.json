@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 19,
+  "changeIdentifier": 31,
   "do_objectID": "BC40E3FF-C738-4FED-8F0F-656F17F93102",
   "exportOptions": {
     "_class": "exportOptions",
@@ -68,6 +68,7 @@
   ],
   "name": "Status Bar/Black",
   "nameIsFixed": true,
+  "originalObjectID": "BC40E3FF-C738-4FED-8F0F-656F17F93102",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

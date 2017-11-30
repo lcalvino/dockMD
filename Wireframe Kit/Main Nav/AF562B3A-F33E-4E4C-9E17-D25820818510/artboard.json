@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1366,
+    "height": 1747,
     "width": 1024,
     "x": 634,
     "y": -363
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -80,10 +80,6 @@
     {
       "class": "symbolInstance",
       "id": "F9D073B0-A19F-49F6-BE74-9262F8CC21BB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DBABB66E-6684-49AF-9504-20B68C6F25BA"
     }
   ],
   "name": "Dashboard",
