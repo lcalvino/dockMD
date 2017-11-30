@@ -34,6 +34,18 @@
   "layers": [
     {
       "class": "symbolMaster",
+      "id": "D6A6A516-7831-40E5-B8CE-165AA3749EBB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A18867A4-0FDD-4703-AE15-A0F450C55DBC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "088DEF56-5B59-457A-A2CD-0C6DA15FDFB1"
+    },
+    {
+      "class": "symbolMaster",
       "id": "6E7A9FD2-0ED9-4E9C-9107-7604A1DFE4ED"
     },
     {
@@ -75,6 +87,14 @@
     {
       "class": "symbolMaster",
       "id": "BC40E3FF-C738-4FED-8F0F-656F17F93102"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A76ECA58-CDD1-47CD-9AFA-32FFF8781FAD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B614B060-FDFF-4740-830D-B14A498AAFD0"
     }
   ],
   "name": "Symbols",
