@@ -147,6 +147,7 @@
     "images": [
     ]
   },
+  "colorSpace": 0,
   "do_objectID": "F4812C16-0240-4CD9-8E71-B0D9EC76E297",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
@@ -158,13 +159,14 @@
     ]
   },
   "meta": {
-    "appVersion": "45",
-    "build": 43475,
-    "commit": "62a429066b6505d0a6a211f8b74e8c5a38b40e00",
-    "version": 92
+    "appVersion": "47.1",
+    "build": 45422,
+    "commit": "d5cff89adfb6ffc45ca7b7d58d65cada3f63f39a",
+    "version": 95
   },
   "pages": [
-    "Page 1",
+    "WF Kit",
+    "Main Nav",
     "Styles",
     "Symbols"
   ],
