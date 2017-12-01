@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2547,
+    "height": 1420,
     "width": 1024,
     "x": 3351,
     "y": -41
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -67,35 +67,15 @@
     },
     {
       "class": "group",
-      "id": "6F933ADC-EEAD-49B4-AF3A-FCEA60828C43"
-    },
-    {
-      "class": "group",
-      "id": "826395FE-D967-4376-B1A8-2D55DDF667ED"
-    },
-    {
-      "class": "group",
-      "id": "97C2EEBE-8953-4FE1-A339-79339A23344C"
-    },
-    {
-      "class": "group",
       "id": "54C239ED-9954-49C1-B11A-DCB70D7BDF65"
+    },
+    {
+      "class": "text",
+      "id": "18291E5C-518D-45D3-A470-3F9C74B15A40"
     },
     {
       "class": "group",
       "id": "9E2568E9-2CFB-4F6A-B509-D20C09B727E6"
-    },
-    {
-      "class": "group",
-      "id": "4DBFF52D-EE3D-4712-B1C4-34B23E5CE4B8"
-    },
-    {
-      "class": "group",
-      "id": "0A1A14F5-8894-48C5-8DF6-2827A2A703A1"
-    },
-    {
-      "class": "group",
-      "id": "9381E6E3-5160-4AAA-BABD-AF15F8456916"
     },
     {
       "class": "group",
@@ -115,35 +95,11 @@
     },
     {
       "class": "group",
-      "id": "F6858A5F-370B-449C-B68C-19ECB3E4A38A"
-    },
-    {
-      "class": "group",
-      "id": "02623A82-1821-4E24-AF1F-FCA7E4ED18FD"
-    },
-    {
-      "class": "group",
-      "id": "B2A06B69-9FD8-47D0-9474-3C6FF0D660C8"
-    },
-    {
-      "class": "group",
       "id": "1CC3D386-F77B-470C-A71F-9CB3C893BB19"
     },
     {
       "class": "group",
       "id": "6C4BCAF6-A44F-42AD-9FDA-00F200B31ECC"
-    },
-    {
-      "class": "group",
-      "id": "C0258B21-849C-4EF3-8CE9-A29234A39C44"
-    },
-    {
-      "class": "group",
-      "id": "9C7F1DAF-4350-409B-B632-311AE38EC4A2"
-    },
-    {
-      "class": "group",
-      "id": "36229F29-3448-4459-977D-07B74432FC8B"
     },
     {
       "class": "group",
@@ -155,18 +111,6 @@
     },
     {
       "class": "group",
-      "id": "3D63598B-0221-455B-8D9B-0EF9B3C6AD0D"
-    },
-    {
-      "class": "group",
-      "id": "FDC5C449-687C-4BFC-89EF-778E63A57C60"
-    },
-    {
-      "class": "group",
-      "id": "D4BE8817-A522-42CC-9170-7E9B4BCB2D2D"
-    },
-    {
-      "class": "group",
       "id": "ED8B15FC-E3B8-4F4B-8FB3-75C957F249D8"
     },
     {
@@ -175,35 +119,11 @@
     },
     {
       "class": "group",
-      "id": "936F2B21-ACB0-4DA2-B579-E4AFBF77FB6C"
-    },
-    {
-      "class": "group",
-      "id": "C36F7E6B-725C-4331-B74F-9134D7F03989"
-    },
-    {
-      "class": "group",
-      "id": "2698A713-E9D8-4019-913B-DBFEF4D6C554"
-    },
-    {
-      "class": "group",
       "id": "E60F85FD-7788-4DFE-A0F9-E6FA0C380A42"
     },
     {
       "class": "group",
       "id": "76B6AF8C-1716-4921-8716-3E8C76DABC4A"
-    },
-    {
-      "class": "group",
-      "id": "6D983AD9-70BC-4CCA-9FCD-C5E687DDD9BF"
-    },
-    {
-      "class": "group",
-      "id": "996AB8B7-07EF-4E4F-A932-94A57152A08B"
-    },
-    {
-      "class": "group",
-      "id": "E9652FBB-4137-4DB6-AEC5-048220A5F326"
     },
     {
       "class": "group",

@@ -16,7 +16,7 @@
     "height": 71,
     "width": 400,
     "x": 95,
-    "y": 2070
+    "y": 1969
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -28,6 +28,10 @@
     {
       "class": "shapeGroup",
       "id": "51E4B477-ED46-4D48-B987-C9BCE54BC744"
+    },
+    {
+      "class": "group",
+      "id": "C479C7A0-A501-4A18-955C-09441C1FC326"
     },
     {
       "class": "text",

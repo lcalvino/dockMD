@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1336,
+    "height": 2428,
     "width": 1024,
     "x": 4598,
     "y": -41
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,6 +58,82 @@
       "id": "40277A0D-8D66-4636-9C1F-569C06222323"
     },
     {
+      "class": "text",
+      "id": "A6D51C2F-EC33-442E-AD10-435571F22FF1"
+    },
+    {
+      "class": "text",
+      "id": "7CDADD32-63D4-4883-AA1D-ECAE69154123"
+    },
+    {
+      "class": "text",
+      "id": "96DB66C8-4510-49AE-9FD3-7E72FB488D9D"
+    },
+    {
+      "class": "text",
+      "id": "C4151534-E396-46E1-8E53-833B653D1129"
+    },
+    {
+      "class": "text",
+      "id": "FAF6EB4D-4037-434D-B843-55BBD88FDA93"
+    },
+    {
+      "class": "text",
+      "id": "0C42B12D-8290-4B78-8832-AB80083455DD"
+    },
+    {
+      "class": "text",
+      "id": "D6F3613E-69DD-4AB2-8B6A-3F5890B71707"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C02AD46-0E4A-4B4A-AED2-AD1A38A363DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "75D18DEE-0E5E-46A6-A386-900CAF3F697B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CA1AE7D0-1D00-465C-8B8C-BDFA16D522D9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD9277F0-5200-4531-8AF3-3BD090AC3E54"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3799B7FD-7C27-4451-93D6-1CA06F46AD5D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "934305DF-24BD-4CCE-8053-FA82833CAF4D"
+    },
+    {
+      "class": "text",
+      "id": "9CDD6D41-3490-4B36-9E1C-1CE7D4631500"
+    },
+    {
+      "class": "text",
+      "id": "09CAD611-E645-40AB-80C6-7ABFDDAD0CE3"
+    },
+    {
+      "class": "text",
+      "id": "5ADC816E-4565-43D1-B272-3F8E98E4DD87"
+    },
+    {
+      "class": "text",
+      "id": "7D1E37E9-23DE-44DD-B3D6-0A9D39B49D5D"
+    },
+    {
+      "class": "text",
+      "id": "F8981D6F-5430-4A8F-9986-1908D5D8A81B"
+    },
+    {
+      "class": "text",
+      "id": "7BD9EF81-D1AC-48D9-9B55-F32EA04A8A7B"
+    },
+    {
       "class": "group",
       "id": "52A3BF7B-2940-4FC0-BF08-F04583E83330"
     },
@@ -71,7 +147,7 @@
     },
     {
       "class": "group",
-      "id": "6DF03515-FC19-47F9-83D5-01462906CBBB"
+      "id": "F20CA023-3C7C-4E0A-ACF3-6530E3691C19"
     },
     {
       "class": "group",
