@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "0C7F3072-3622-4FDF-9601-AA5542DA07D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 400,
+    "x": 95,
+    "y": 1419
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5FFC14D6-5083-4389-961C-8159DC94B2B8"
+    },
+    {
+      "class": "group",
+      "id": "52D42A65-D9CB-4B82-924A-9397BFD5F803"
+    },
+    {
+      "class": "text",
+      "id": "BF9FFBF6-F081-496B-8520-DBAA4B15BF2C"
+    },
+    {
+      "class": "text",
+      "id": "9FC34D67-5153-43DA-8E8B-4D4A53F67905"
+    }
+  ],
+  "name": "Work with us Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "865B0393-28E8-4037-A2A5-C216AAB2F256",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 400,
+    "x": 529,
+    "y": 1719
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "629C84C2-97B7-4866-9C1C-F387481D3A1A"
+    },
+    {
+      "class": "text",
+      "id": "F5394639-8B66-4E00-BE05-90CE135D04E5"
+    },
+    {
+      "class": "text",
+      "id": "08A06B92-F664-4BAF-B064-A0057082A01C"
+    }
+  ],
+  "name": "City Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

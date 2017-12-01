@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "1302E480-B31E-4C45-AF96-F6AB67CFF77E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 180,
+    "x": 95,
+    "y": 1920
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E22B8173-FA47-402C-922B-AB920E105B55"
+    },
+    {
+      "class": "group",
+      "id": "A47FAF37-ECA5-499F-8028-0D217AD70F79"
+    },
+    {
+      "class": "text",
+      "id": "89A2C2D5-6A74-4DD5-A5E3-0E8D43B79EAB"
+    },
+    {
+      "class": "text",
+      "id": "429D81C8-7F99-4D3A-99E8-933ABB3D9E30"
+    }
+  ],
+  "name": "Birhdate Copy 14",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
