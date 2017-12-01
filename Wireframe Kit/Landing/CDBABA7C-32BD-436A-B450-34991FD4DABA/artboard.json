@@ -26,7 +26,7 @@
     "y": -534
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -71,10 +71,6 @@
     },
     {
       "class": "group",
-      "id": "DF14C108-53D5-4B8D-8211-2300C8AB4809"
-    },
-    {
-      "class": "group",
       "id": "EA7BBAEB-5F5A-46E3-8F30-8787D343FE14"
     },
     {
@@ -84,6 +80,10 @@
     {
       "class": "text",
       "id": "FCF6ED66-F1E4-4D09-BAA2-BEB1411CE070"
+    },
+    {
+      "class": "text",
+      "id": "809D5C05-E604-4DED-9E3A-88546BDD8B35"
     }
   ],
   "name": "Register",
