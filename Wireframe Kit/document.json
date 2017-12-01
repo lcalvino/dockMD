@@ -166,13 +166,14 @@
   },
   "pages": [
     "Main Nav",
+    "Landing",
     "WF Kit",
     "Styles",
     "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
-      "metadata": "{\"hasSynced\":true,\"publicLink\":\"https:\\/\\/invis.io\\/K3AP0ZMFR\",\"projectId\":12741104,\"hasProjectIdChanged\":false,\"resolution\":2,\"syncAll\":false}"
+      "metadata": "{\"hasSynced\":true,\"publicLink\":\"https:\\/\\/invis.io\\/K3AP0ZMFR\",\"projectId\":12743509,\"hasProjectIdChanged\":false,\"resolution\":2,\"syncAll\":false}"
     }
   }
 }
