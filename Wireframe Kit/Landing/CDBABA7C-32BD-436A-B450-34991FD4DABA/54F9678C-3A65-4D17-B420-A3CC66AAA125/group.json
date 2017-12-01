@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "54F9678C-3A65-4D17-B420-A3CC66AAA125",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 99,
+    "width": 651,
+    "x": 187,
+    "y": 384
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "70B8E890-68A5-4562-B680-A25842A05DA4"
+    },
+    {
+      "class": "text",
+      "id": "03545887-7260-432C-B2AD-2E20EA9EDF8B"
+    },
+    {
+      "class": "text",
+      "id": "40CA9282-920E-4BA2-8AEF-6842CD5D4360"
+    }
+  ],
+  "name": "Email Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
