@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 1366,
     "width": 1024,
-    "x": 1886,
+    "x": 6464,
     "y": -534
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,39 +39,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "C5F8BA32-0437-4CEF-93D4-0878E96141A8"
+      "id": "ECCE90C0-073E-48B0-958E-D3C8DE06225C"
     },
     {
       "class": "text",
       "id": "22FF28D6-4709-4EDF-9A18-451B59ACB3D3"
-    },
-    {
-      "class": "group",
-      "id": "576E63AF-6618-49F1-946C-CED2A4B3F9D3"
-    },
-    {
-      "class": "group",
-      "id": "864CB320-9A48-4562-AE0D-B81B0EA888AA"
-    },
-    {
-      "class": "group",
-      "id": "6D35B442-FAC8-41C9-9783-FFB2C98B16A4"
-    },
-    {
-      "class": "group",
-      "id": "8E98B1DC-37FE-45FC-8B8E-38780C4F0499"
-    },
-    {
-      "class": "group",
-      "id": "DE5F244E-4107-4A24-B183-FC931C20D29C"
-    },
-    {
-      "class": "text",
-      "id": "BF27BEA6-7A68-4C43-8424-BB09118B77F0"
     },
     {
       "class": "text",
@@ -80,6 +56,34 @@
     {
       "class": "text",
       "id": "2695E515-0193-4FDC-870E-20011B539172"
+    },
+    {
+      "class": "group",
+      "id": "BE2A33C6-4C39-46CF-9E9C-DAF907EF7660"
+    },
+    {
+      "class": "group",
+      "id": "4F562BF3-73C2-4BF2-A5ED-5B1354388DB0"
+    },
+    {
+      "class": "group",
+      "id": "11DEF0F8-5FD9-4724-847D-380E3C1BE2B1"
+    },
+    {
+      "class": "group",
+      "id": "DF14C108-53D5-4B8D-8211-2300C8AB4809"
+    },
+    {
+      "class": "group",
+      "id": "EA7BBAEB-5F5A-46E3-8F30-8787D343FE14"
+    },
+    {
+      "class": "group",
+      "id": "54F9678C-3A65-4D17-B420-A3CC66AAA125"
+    },
+    {
+      "class": "text",
+      "id": "FCF6ED66-F1E4-4D09-BAA2-BEB1411CE070"
     }
   ],
   "name": "Register",
