@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "FB7F8478-0929-4796-A47F-DF32DC32C914",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 71,
+    "width": 400,
+    "x": 95,
+    "y": 870
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "98F09140-6445-4758-A0B7-8E2442F34A80"
+    },
+    {
+      "class": "group",
+      "id": "D59FC2E4-D7C8-4D88-AD31-56826F081219"
+    },
+    {
+      "class": "text",
+      "id": "DBBB3C14-8BAC-4787-A1F3-3B45B4088C9D"
+    },
+    {
+      "class": "text",
+      "id": "03BC2565-66F0-43AC-8F79-52DC28413F8B"
+    }
+  ],
+  "name": "Degree",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

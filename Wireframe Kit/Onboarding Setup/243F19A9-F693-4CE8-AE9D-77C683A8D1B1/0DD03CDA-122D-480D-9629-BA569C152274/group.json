@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "0DD03CDA-122D-480D-9629-BA569C152274",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 165,
+    "width": 165,
+    "x": 95,
+    "y": 1378
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5A1C9F2A-BDA8-4904-9F1C-24E95EB6D9CE"
+    },
+    {
+      "class": "group",
+      "id": "0DE7EE49-C078-41C8-8260-49D7153E2F19"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CFD11C03-9C25-4B5C-961B-036F809E6D4A"
+    },
+    {
+      "class": "text",
+      "id": "376CAFF6-4B33-4F35-B9D8-02EDC8EAE1AD"
+    }
+  ],
+  "name": "Upload image",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

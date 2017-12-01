@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "85A5A96B-F525-498C-B500-D5A221E7A03F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 400,
+    "x": 95,
+    "y": 1896
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7D742D55-C5EB-4396-931E-AF4F81DEED88"
+    },
+    {
+      "class": "text",
+      "id": "01E55DDE-90D1-4ACA-8B58-A8654F18A35B"
+    },
+    {
+      "class": "text",
+      "id": "F263020F-394D-4B22-95DE-DC1B72304BB4"
+    }
+  ],
+  "name": "Phone Copy 5",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
