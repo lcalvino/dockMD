@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1420,
+    "height": 1366,
     "width": 1024,
     "x": 3351,
     "y": -41
@@ -58,24 +58,16 @@
       "id": "A57EB46D-B9D0-486C-BC8A-66FBD2778A9B"
     },
     {
-      "class": "group",
-      "id": "5E4F5854-0CB1-4DC0-98C1-BF6C23D0D34E"
+      "class": "symbolInstance",
+      "id": "8E9DEFF8-D4F0-4472-8FF4-6F4915FBF1CA"
     },
     {
-      "class": "group",
-      "id": "30A46192-B2C4-49B3-8846-C6F3FAAE7E26"
-    },
-    {
-      "class": "group",
-      "id": "54C239ED-9954-49C1-B11A-DCB70D7BDF65"
+      "class": "symbolInstance",
+      "id": "9EFC6EF9-3E40-4EA5-8FA9-8910969FAC55"
     },
     {
       "class": "text",
       "id": "18291E5C-518D-45D3-A470-3F9C74B15A40"
-    },
-    {
-      "class": "group",
-      "id": "9E2568E9-2CFB-4F6A-B509-D20C09B727E6"
     },
     {
       "class": "group",
@@ -86,44 +78,24 @@
       "id": "E6F080CB-C0F6-46A1-BD8F-1EE5DB3D8B1E"
     },
     {
-      "class": "group",
-      "id": "5E0950ED-7F68-4615-9F56-92920294EA8B"
+      "class": "symbolInstance",
+      "id": "55F59AA4-74BD-47BC-A828-8CADD96E04DD"
     },
     {
-      "class": "group",
-      "id": "9CCAEC6D-2F99-42F4-8C29-AB519612129E"
+      "class": "symbolInstance",
+      "id": "2C8368F6-37C9-44DE-B6ED-B0872BA9E28D"
     },
     {
-      "class": "group",
-      "id": "1CC3D386-F77B-470C-A71F-9CB3C893BB19"
-    },
-    {
-      "class": "group",
-      "id": "6C4BCAF6-A44F-42AD-9FDA-00F200B31ECC"
-    },
-    {
-      "class": "group",
-      "id": "A6C693D5-4125-41E9-BD3D-30F94B1C162B"
-    },
-    {
-      "class": "group",
-      "id": "756ECE3B-2DA6-4B93-875D-9661DD5067EF"
+      "class": "symbolInstance",
+      "id": "1F40314D-72B1-4247-B475-3C454C076515"
     },
     {
       "class": "group",
       "id": "ED8B15FC-E3B8-4F4B-8FB3-75C957F249D8"
     },
     {
-      "class": "group",
-      "id": "53A84206-8816-4FF4-A26E-7EC7E2570975"
-    },
-    {
-      "class": "group",
-      "id": "E60F85FD-7788-4DFE-A0F9-E6FA0C380A42"
-    },
-    {
-      "class": "group",
-      "id": "76B6AF8C-1716-4921-8716-3E8C76DABC4A"
+      "class": "symbolInstance",
+      "id": "F8CE9CA8-FDFE-48EB-8E50-987F9C71B081"
     },
     {
       "class": "group",

@@ -48,6 +48,22 @@
     {
       "class": "shapeGroup",
       "id": "EB409F8F-4EAC-43BE-A781-A605E87D7BED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ECED526D-AB9D-4FE8-A91B-DCC269413DF9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "33AD85C8-E50F-49C8-80B0-404E1EC49F20"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C253632C-7F30-4E2A-8A35-2BBBEF99F82B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DAD83B4D-AE10-4B0E-89A5-DCDAB6658A18"
     }
   ],
   "name": "wizard",

@@ -43,6 +43,10 @@
   "layers": [
     {
       "class": "shapeGroup",
+      "id": "51498D12-C36C-4E4D-9F59-758C9BE54B57"
+    },
+    {
+      "class": "shapeGroup",
       "id": "00E3CE33-B5DE-403D-9F27-CD3A356145DD"
     },
     {
