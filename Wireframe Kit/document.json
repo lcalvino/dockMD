@@ -165,11 +165,11 @@
     "version": 95
   },
   "pages": [
-    "Main Nav",
-    "Locum tenes",
-    "Onboarding Setup",
     "Landing",
-    "Financials",
+    "Onboarding Setup",
+    "Main Nav",
+    "Case Review",
+    "Locum tenes",
     "WF Kit",
     "Styles",
     "Symbols"
