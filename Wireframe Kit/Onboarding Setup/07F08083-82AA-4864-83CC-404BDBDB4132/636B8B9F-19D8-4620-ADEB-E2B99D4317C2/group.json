@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "do_objectID": "636B8B9F-19D8-4620-ADEB-E2B99D4317C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 112,
+    "width": 894,
+    "x": 65,
+    "y": 385
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "39DB57EB-DE30-42F3-AA2C-15F2EFD21B57"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D611FF37-E390-4A0D-93B9-0C0FB3392328"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "51F0281B-55B5-4B30-8B7F-5F2E8D3277B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4D9EC7DA-D00A-4CF2-9F5A-FBB90B864502"
+    },
+    {
+      "class": "text",
+      "id": "BAE6260C-18AD-425A-B874-799A2447B877"
+    },
+    {
+      "class": "text",
+      "id": "D12D5F2F-6BE1-44D9-A42B-9595D74D8981"
+    },
+    {
+      "class": "text",
+      "id": "BC3F741C-BFC8-43AB-8456-6B61DEF5DDEE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "562BFC4C-9F26-4400-ADD7-8862A27B5868"
+    },
+    {
+      "class": "text",
+      "id": "5F926A63-AB70-4912-ADA7-D433234CE709"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57112BEC-7020-47C5-B67C-FBAA062DA286"
+    },
+    {
+      "class": "text",
+      "id": "CD633FA2-9DC2-4035-8261-DA67CE85C2F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A250A59B-F44A-4102-8191-A00336D58564"
+    },
+    {
+      "class": "text",
+      "id": "79840B22-8D03-48A9-A667-448C23F4F740"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7FE6693-39ED-45D2-BB6C-0E818BD7BFD8"
+    },
+    {
+      "class": "text",
+      "id": "0EA1DE9C-1535-4EB9-BF81-F84EC3408891"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F4C49A5E-E7C9-4DC0-AE72-02EBFBBCF3B3"
+    },
+    {
+      "class": "text",
+      "id": "0093120F-3FC8-4BA5-81A1-D4465491D1FA"
+    }
+  ],
+  "name": "Tabs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -50,31 +50,35 @@
     },
     {
       "class": "artboard",
-      "id": "9E9E4571-B8A4-41EE-9A2E-412E600E3F78"
-    },
-    {
-      "class": "artboard",
-      "id": "FA07D3BB-1A2E-48A5-96B6-516D49B3A6EC"
-    },
-    {
-      "class": "artboard",
-      "id": "50086B44-305F-48E4-9F62-39EB7D9097C2"
-    },
-    {
-      "class": "artboard",
-      "id": "FF7E70DE-E471-49CA-812B-E02074C416AA"
-    },
-    {
-      "class": "artboard",
-      "id": "343D8186-69AA-4147-9308-C4EB3F9289B4"
-    },
-    {
-      "class": "artboard",
-      "id": "3B86D083-C6BE-4406-9234-CA4BBA2C164F"
-    },
-    {
-      "class": "artboard",
       "id": "8B0A209C-D970-48A9-AEDA-5251FE71AAB4"
+    },
+    {
+      "class": "artboard",
+      "id": "07F08083-82AA-4864-83CC-404BDBDB4132"
+    },
+    {
+      "class": "artboard",
+      "id": "7A20774E-198A-44B8-971C-3B5CFC8FAFC8"
+    },
+    {
+      "class": "artboard",
+      "id": "349C83C5-B155-45AF-899D-269DCCD39F46"
+    },
+    {
+      "class": "artboard",
+      "id": "B94C2B2F-B1C5-439E-8D8A-7E5DF6594542"
+    },
+    {
+      "class": "artboard",
+      "id": "B4166190-EBDB-4FDD-B4F3-C1DBA17860D8"
+    },
+    {
+      "class": "artboard",
+      "id": "3FD41C12-74C1-48EB-89EA-25764EA400C4"
+    },
+    {
+      "class": "artboard",
+      "id": "AB4C8807-E733-4DBF-95D2-3F046AE76A1A"
     }
   ],
   "name": "Onboarding Setup",

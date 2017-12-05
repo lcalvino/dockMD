@@ -1,0 +1,133 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9411764705882353,
+    "green": 0.9411764705882353,
+    "red": 0.9411764705882353
+  },
+  "do_objectID": "3FD41C12-74C1-48EB-89EA-25764EA400C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1366,
+    "width": 1024,
+    "x": 13317,
+    "y": -13
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B41AA22C-2888-489D-B028-B55F26D2E925"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE934B3F-3655-4A36-B7E4-F62AE8D8E3E3"
+    },
+    {
+      "class": "text",
+      "id": "71194188-16A4-4148-9E2D-BC2A533E75F2"
+    },
+    {
+      "class": "text",
+      "id": "67DA0D72-3EBA-4C15-AB05-452CDBFA123D"
+    },
+    {
+      "class": "group",
+      "id": "5754F33E-96F5-44B9-9F03-0700532FDC9E"
+    },
+    {
+      "class": "group",
+      "id": "6AE78DDF-DE50-47FC-990C-91331D1EE1D3"
+    },
+    {
+      "class": "group",
+      "id": "0752B615-63D2-414D-866D-EFE43862CE7B"
+    },
+    {
+      "class": "group",
+      "id": "09C3BAFC-1498-4FF4-989C-2B5E83B1E7E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CC5ED42-F5F1-41C3-878E-AE78CE4B66AF"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78.33333333333333,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 7,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1024
+  },
+  "name": "End of Disclosure",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
