@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -32,10 +32,6 @@
     {
       "class": "text",
       "id": "F16223BE-9D14-41AF-BCE3-2150D4C2DD9D"
-    },
-    {
-      "class": "text",
-      "id": "B6D006BE-BB6E-4067-89D6-99660F5D42BC"
     }
   ],
   "name": "Password",

@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -31,11 +31,15 @@
     },
     {
       "class": "text",
-      "id": "1E626C7F-991C-4E3F-8F36-6A973E60B3A6"
+      "id": "F4478608-5D14-45B7-BED9-E73492E92DA3"
     },
     {
       "class": "text",
-      "id": "74E90B72-3676-47EF-AF1B-24685337B5B3"
+      "id": "EEC86203-20B4-474C-A805-03E7DF2EB9F6"
+    },
+    {
+      "class": "text",
+      "id": "1E626C7F-991C-4E3F-8F36-6A973E60B3A6"
     }
   ],
   "name": "Email Copy",

@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -32,10 +32,6 @@
     {
       "class": "text",
       "id": "1518A505-04DD-445D-BA94-FF18F9C1B2FA"
-    },
-    {
-      "class": "text",
-      "id": "A50763E3-B7AB-48B5-A244-00D8432C802F"
     }
   ],
   "name": "Email",

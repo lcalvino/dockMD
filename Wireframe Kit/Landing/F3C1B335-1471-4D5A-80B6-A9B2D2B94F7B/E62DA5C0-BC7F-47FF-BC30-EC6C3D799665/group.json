@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -31,11 +31,15 @@
     },
     {
       "class": "text",
-      "id": "61041A65-7416-4431-9511-9CFEB4CA097E"
+      "id": "B5C5E099-F365-4011-85E4-1E1231541D34"
     },
     {
       "class": "text",
-      "id": "A170B3FC-6965-47FF-8388-14537E72B2DF"
+      "id": "9FDF3C7C-3D79-4F32-A0FE-F52E72FC1FAE"
+    },
+    {
+      "class": "text",
+      "id": "61041A65-7416-4431-9511-9CFEB4CA097E"
     }
   ],
   "name": "Password",
