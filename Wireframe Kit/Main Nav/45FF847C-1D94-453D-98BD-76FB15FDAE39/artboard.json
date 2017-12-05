@@ -44,6 +44,70 @@
     {
       "class": "symbolInstance",
       "id": "22DD4B12-B5AC-49BA-856C-2A38CCB87E3A"
+    },
+    {
+      "class": "group",
+      "id": "F14683B7-5A41-4D5A-A20C-B39513FA9ADE"
+    },
+    {
+      "class": "group",
+      "id": "84B2D0FC-2A9A-45F6-9928-A45F2AD3761C"
+    },
+    {
+      "class": "group",
+      "id": "F5842CAD-76E9-4750-9949-5E3A0D52DC11"
+    },
+    {
+      "class": "group",
+      "id": "AB9E1B3F-CE56-4D2C-885B-D11CBFA8F2EA"
+    },
+    {
+      "class": "group",
+      "id": "4745E4D7-5135-47C6-B882-648C1B8859E1"
+    },
+    {
+      "class": "text",
+      "id": "CD886994-482A-4D11-B747-D5483B1DD96C"
+    },
+    {
+      "class": "text",
+      "id": "31EA4491-FFDE-4161-84F0-1FE629D6BC9A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "51D56E21-F496-4ED6-B020-054723BE7020"
+    },
+    {
+      "class": "text",
+      "id": "1E1A74B3-825E-4C91-8A5D-556867B75B10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E66DE55-B5D6-4374-A97E-42D19C72C488"
+    },
+    {
+      "class": "group",
+      "id": "B3710956-F814-47D7-AA36-7CF6D01F33CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B995EFD-BAF3-4F76-A697-78B6B67E5662"
+    },
+    {
+      "class": "text",
+      "id": "618EC4E5-02B5-4216-9DE9-1AAAF8F470F4"
+    },
+    {
+      "class": "text",
+      "id": "F57D85FF-AEA4-4586-9BC2-592044544C47"
+    },
+    {
+      "class": "text",
+      "id": "3B092772-9894-4DB2-AD6C-5D8B501BC0FD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "77576A36-7E73-4CC0-99A8-74DA03666061"
     }
   ],
   "name": "Financials",
