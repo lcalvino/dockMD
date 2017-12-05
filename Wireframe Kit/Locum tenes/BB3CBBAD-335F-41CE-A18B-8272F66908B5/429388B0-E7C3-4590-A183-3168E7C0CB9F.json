@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "72F435BC-F2DA-4B6E-B47E-714CE39311F0",
+  "do_objectID": "429388B0-E7C3-4590-A183-3168E7C0CB9F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,7 +16,7 @@
     "height": 70,
     "width": 1024,
     "x": 0,
-    "y": 1296
+    "y": 1297
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -38,8 +38,7 @@
     },
     "13142D4C-0F0E-42C8-A89A-B4777BF9E049": {
       "C049793E-5355-46FF-A5AB-88954371422F": "TRAINING",
-      "E29F0566-8B8A-4BE7-AC28-FFD4FBFF2567": "TRAINING",
-      "symbolID": "058FD50D-2C29-4E42-BFD1-CE41C33B6D1B"
+      "symbolID": "CAF1CA3B-0C35-4594-AE1C-C9320613AADC"
     },
     "4BD8A0DD-8597-4226-95DF-F3F7E2127617": {
       "2A08949E-8FE1-4E3C-862E-4580461F124A": {
@@ -59,7 +58,8 @@
     },
     "E7820DB5-565A-4C94-9D4A-A30F57DB6ACF": {
       "C049793E-5355-46FF-A5AB-88954371422F": "LOCUM TENES",
-      "symbolID": "CAF1CA3B-0C35-4594-AE1C-C9320613AADC"
+      "E29F0566-8B8A-4BE7-AC28-FFD4FBFF2567": "LOCUM TENES",
+      "symbolID": "058FD50D-2C29-4E42-BFD1-CE41C33B6D1B"
     }
   },
   "resizingConstraint": 63,

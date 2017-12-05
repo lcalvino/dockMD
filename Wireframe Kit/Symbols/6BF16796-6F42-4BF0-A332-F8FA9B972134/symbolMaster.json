@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 16,
+  "changeIdentifier": 24,
   "do_objectID": "6BF16796-6F42-4BF0-A332-F8FA9B972134",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "Form/small_dropdown",
   "nameIsFixed": false,
+  "originalObjectID": "6BF16796-6F42-4BF0-A332-F8FA9B972134",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

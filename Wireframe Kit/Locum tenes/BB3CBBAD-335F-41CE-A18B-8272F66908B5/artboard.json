@@ -74,6 +74,10 @@
       "id": "CE40797F-FB71-45CA-9393-11517314E72E"
     },
     {
+      "class": "symbolInstance",
+      "id": "429388B0-E7C3-4590-A183-3168E7C0CB9F"
+    },
+    {
       "class": "text",
       "id": "DAA0B314-C3CA-430F-BC4D-1B8224082021"
     },
@@ -180,10 +184,6 @@
     {
       "class": "text",
       "id": "60BA8F21-47FC-4F3A-8625-03E414310190"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "72F435BC-F2DA-4B6E-B47E-714CE39311F0"
     },
     {
       "class": "group",
