@@ -42,12 +42,40 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "064D33A3-5236-46F0-82D0-5AF6001E356C"
+      "class": "symbolInstance",
+      "id": "DA381694-1426-417F-A82E-E13C29005CE7"
     },
     {
-      "class": "symbolInstance",
-      "id": "5036ADED-B497-457D-A1CF-0EC6BD69341B"
+      "class": "group",
+      "id": "90E01540-D537-4DAB-9502-2DFFDAAA7F7D"
+    },
+    {
+      "class": "group",
+      "id": "F77F920F-3914-4B51-8865-8C3223F8D53F"
+    },
+    {
+      "class": "group",
+      "id": "1BB34EC6-78F8-46F6-B937-9D8C9D9C46E0"
+    },
+    {
+      "class": "group",
+      "id": "9133DE8D-8E18-4280-8A9A-6CDFB7CFA036"
+    },
+    {
+      "class": "group",
+      "id": "2161B58E-F316-4E13-AC93-869BFA12A92E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "844A3765-63CB-4EDC-AAB0-74D15CE58039"
+    },
+    {
+      "class": "text",
+      "id": "E69845B5-7414-4A18-878D-BA6736A3E5CF"
+    },
+    {
+      "class": "text",
+      "id": "516D5466-80D9-473B-936D-DD394F63A64D"
     }
   ],
   "name": "Notifications",
