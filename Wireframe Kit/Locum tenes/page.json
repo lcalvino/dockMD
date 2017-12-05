@@ -1,0 +1,66 @@
+{
+  "_class": "page",
+  "do_objectID": "0B9F0F3F-E5CA-4D47-BA52-D4B8C6FEACDB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -601,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "EC60BD4F-DAFE-48BE-9A25-58AD0ADFCAAE"
+    },
+    {
+      "class": "artboard",
+      "id": "BE035AE0-3C18-420D-8CCC-71A900BAC8B6"
+    },
+    {
+      "class": "artboard",
+      "id": "BB3CBBAD-335F-41CE-A18B-8272F66908B5"
+    }
+  ],
+  "name": "Locum tenes",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -346,
+    "guides": [
+    ]
+  }
+}
