@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A43A7087-F8CA-4F4A-8C39-B507A5F05DA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 101,
+    "x": 36,
+    "y": 21
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "dashboard_button",
+  "nameIsFixed": false,
+  "originalObjectID": "4BD8A0DD-8597-4226-95DF-F3F7E2127617",
+  "overrides": {
+    "2A08949E-8FE1-4E3C-862E-4580461F124A": {
+      "symbolID": "27FB0788-12D4-43DC-8FFC-7C8CAE05AE17"
+    },
+    "C049793E-5355-46FF-A5AB-88954371422F": "DASHBOARD",
+    "E29F0566-8B8A-4BE7-AC28-FFD4FBFF2567": "DASHBOARD"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CAF1CA3B-0C35-4594-AE1C-C9320613AADC",
+  "verticalSpacing": 0
+}

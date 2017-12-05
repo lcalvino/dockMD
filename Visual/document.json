@@ -32,7 +32,9 @@
     "version": 95
   },
   "pages": [
-    "Research"
+    "Research",
+    "Page 1",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
