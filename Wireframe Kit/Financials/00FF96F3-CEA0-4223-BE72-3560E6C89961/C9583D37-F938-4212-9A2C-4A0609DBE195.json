@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C9583D37-F938-4212-9A2C-4A0609DBE195",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 1024,
+    "x": 0,
+    "y": 1296
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Tab bar",
+  "nameIsFixed": false,
+  "originalObjectID": "B81BB769-35BB-4592-800E-22E925447F7B",
+  "overrides": {
+    "077FE618-9202-4E8D-8C26-C51DB2FF1274": {
+      "C049793E-5355-46FF-A5AB-88954371422F": "NOTIFICATIONS",
+      "symbolID": "CAF1CA3B-0C35-4594-AE1C-C9320613AADC"
+    },
+    "13142D4C-0F0E-42C8-A89A-B4777BF9E049": {
+      "C049793E-5355-46FF-A5AB-88954371422F": "TRAINING",
+      "symbolID": "CAF1CA3B-0C35-4594-AE1C-C9320613AADC"
+    },
+    "4BD8A0DD-8597-4226-95DF-F3F7E2127617": {
+      "2A08949E-8FE1-4E3C-862E-4580461F124A": {
+        "symbolID": "27FB0788-12D4-43DC-8FFC-7C8CAE05AE17"
+      },
+      "C049793E-5355-46FF-A5AB-88954371422F": "DASHBOARD",
+      "E29F0566-8B8A-4BE7-AC28-FFD4FBFF2567": "DASHBOARD",
+      "symbolID": "CAF1CA3B-0C35-4594-AE1C-C9320613AADC"
+    },
+    "D782FC16-D8A3-4B52-A463-401F2F6563FF": {
+      "C049793E-5355-46FF-A5AB-88954371422F": "FINANCIALS",
+      "E29F0566-8B8A-4BE7-AC28-FFD4FBFF2567": "FINANCIALS",
+      "symbolID": "058FD50D-2C29-4E42-BFD1-CE41C33B6D1B"
+    },
+    "E1618797-46C3-49C2-8601-19DF857A2181": {
+      "C049793E-5355-46FF-A5AB-88954371422F": "SETTINGS",
+      "symbolID": "CAF1CA3B-0C35-4594-AE1C-C9320613AADC"
+    },
+    "E7820DB5-565A-4C94-9D4A-A30F57DB6ACF": {
+      "C049793E-5355-46FF-A5AB-88954371422F": "LOCUM TENES",
+      "symbolID": "CAF1CA3B-0C35-4594-AE1C-C9320613AADC"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D50AAA0B-9587-473B-AA63-D4ED9499E64D",
+  "verticalSpacing": 0
+}

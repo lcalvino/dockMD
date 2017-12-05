@@ -72,6 +72,14 @@
     {
       "class": "group",
       "id": "F61FD72B-B870-4391-BD5F-E517CBDECE62"
+    },
+    {
+      "class": "text",
+      "id": "455DC6F2-FEA1-4F29-9925-200F7F21C63A"
+    },
+    {
+      "class": "text",
+      "id": "B4903936-5E96-48B7-8A3C-6FC49F3C1AE5"
     }
   ],
   "name": "Sign In Validation",
