@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8B18AF31-7CF8-4744-8F6A-45337846B9B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 101,
+    "x": 889,
+    "y": 21
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "dashboard_button",
+  "nameIsFixed": false,
+  "originalObjectID": "E1618797-46C3-49C2-8601-19DF857A2181",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C049793E-5355-46FF-A5AB-88954371422F_stringValue",
+      "value": "SETTINGS"
+    }
+  ],
+  "overrides": {
+    "C049793E-5355-46FF-A5AB-88954371422F": "SETTINGS"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CAF1CA3B-0C35-4594-AE1C-C9320613AADC",
+  "verticalSpacing": 0
+}
