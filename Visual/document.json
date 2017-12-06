@@ -3,6 +3,55 @@
   "assets": {
     "_class": "assetCollection",
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9882352941176471,
+        "green": 0.6913003516624046,
+        "red": 0.2313725490196079
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7062113704177323,
+        "green": 0.9882352941176471,
+        "red": 0.2313725490196079
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3568627450980391,
+        "green": 0.2313725490196079,
+        "red": 0.9882352941176471
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.403921568627451,
+        "green": 0.4980392156862745,
+        "red": 0.9921568627450981
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.403921568627451,
+        "green": 0.9470002131287298,
+        "red": 0.9921568627450981
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9921568627450981,
+        "green": 0.403921568627451,
+        "red": 0.7911498294970166
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.996078431372549,
+        "green": 0.5960784313725489,
+        "red": 0.5176470588235293
+      }
     ],
     "gradients": [
     ],
@@ -28,12 +77,12 @@
   "meta": {
     "appVersion": "48",
     "build": 47235,
-    "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
+    "commit": "804a89154e71ed59eb7d91c713b0b4458e5bb3e7",
     "version": 97
   },
   "pages": [
-    "Research",
     "Page 1",
+    "Research",
     "Symbols"
   ],
   "userInfo": {

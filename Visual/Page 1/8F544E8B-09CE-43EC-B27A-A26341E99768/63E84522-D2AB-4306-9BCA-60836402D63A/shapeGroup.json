@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 250,
     "width": 318,
-    "x": 68,
-    "y": 734
+    "x": 645,
+    "y": 1139
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -56,6 +56,11 @@
         "thickness": 1
       }
     ],
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
     "endDecorationType": 0,
     "fills": [
       {
@@ -70,7 +75,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/6a290870f3ccfe3793f47a0f169f3b322c52a50f",
+          "_ref": "images/0223bb3861562ce1419cb3faa2de976c59d6fc76",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -101,9 +106,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 0.5,
-                "blue": 1,
-                "green": 1,
-                "red": 1
+                "blue": 0.6500053146258503,
+                "green": 0.6500053146258503,
+                "red": 0.6500053146258503
               },
               "position": 0
             },
@@ -111,7 +116,7 @@
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 0.5,
+                "alpha": 0.6,
                 "blue": 0,
                 "green": 0,
                 "red": 0
@@ -119,7 +124,7 @@
               "position": 1
             }
           ],
-          "to": "{1, 1}"
+          "to": "{1, 0.97458669649375629}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
@@ -130,6 +135,17 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Love",
+        "icon": "crown",
+        "index": 0,
+        "mode": "unsplash",
+        "title": "Love"
+      }
+    }
   },
   "windingRule": 1
 }

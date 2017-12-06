@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1201,
+    "height": 2097,
     "width": 1024,
     "x": -363,
     "y": -1239
@@ -63,6 +63,10 @@
     },
     {
       "class": "shapeGroup",
+      "id": "54A2016D-1A5E-4DB4-AFDC-A70AA96E4892"
+    },
+    {
+      "class": "shapeGroup",
       "id": "70A68992-2C13-45B5-BD39-187F41F0EB01"
     },
     {
@@ -74,8 +78,8 @@
       "id": "4C8EE4BF-4FA6-41E9-ADA9-9351C586BF9D"
     },
     {
-      "class": "group",
-      "id": "36934854-6C52-4A2A-8DC1-C9AE2C69B5D2"
+      "class": "shapeGroup",
+      "id": "F6D96064-9B71-4569-B2D8-CDBA0B84BD19"
     },
     {
       "class": "shapeGroup",
@@ -110,8 +114,76 @@
       "id": "62953665-C1BB-4FD1-B955-F939BB9E27D7"
     },
     {
+      "class": "text",
+      "id": "C0B12D0C-C8D4-4DD6-9C3E-1A0C22D9308E"
+    },
+    {
+      "class": "text",
+      "id": "293B1A29-6B12-4936-BB87-816871EC3CE6"
+    },
+    {
+      "class": "text",
+      "id": "C1239F7C-BE75-4EC2-AB3B-EA625CA1C380"
+    },
+    {
       "class": "group",
       "id": "43D99DB6-7DCA-459C-8753-E59E484B9AEF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9302BD85-6A8C-4FA0-9DF6-A65CE4F71EDA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9F8DEB0-1A08-4C35-ABF5-75CBF393ED7D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "81A7C16F-ED70-4E00-A0A5-5B3B89C5DB1F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "344048B9-8185-426F-BD40-DDC51B243198"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A64B6EB5-5132-4FBB-9D6A-E656A3257590"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F2AE9A96-34E5-4A32-86EF-0D36897FBEE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "208C4B17-B972-4893-B598-875ED66B680F"
+    },
+    {
+      "class": "text",
+      "id": "03055D8F-7E97-4DEB-9B7E-0A29C398D600"
+    },
+    {
+      "class": "text",
+      "id": "5A22F03C-CBD3-4858-99EB-E863E824EE27"
+    },
+    {
+      "class": "text",
+      "id": "7B058D55-13BE-4276-93EB-422E328D14FD"
+    },
+    {
+      "class": "text",
+      "id": "244AF57D-42C3-4B55-A373-CA67906A517E"
+    },
+    {
+      "class": "text",
+      "id": "AB48CF18-A3B5-424B-834F-300DBB0C863A"
+    },
+    {
+      "class": "text",
+      "id": "766FB88B-82C3-4529-8839-BD1510A802E1"
+    },
+    {
+      "class": "text",
+      "id": "46D2DA56-EFA1-40F9-AACD-A292326C557D"
     }
   ],
   "name": "Tutorials",
