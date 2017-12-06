@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "C5D16B4B-AA80-445C-A626-B4937F7FAFB8",
+  "do_objectID": "52588997-D30C-449B-AAF6-E839F995AC57",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 71,
-    "width": 581,
-    "x": 393,
-    "y": 652
+    "width": 266,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -32,8 +32,8 @@
   "nameIsFixed": false,
   "originalObjectID": "BC49EA7F-F348-4DB4-AE52-62AAF61B2D47",
   "overrides": {
-    "915307CB-52C7-47D0-9C06-46B50A94D684": "City",
-    "F5DD8BC0-CCD0-42E0-A618-5A2C9A218F3C": "Chicago"
+    "915307CB-52C7-47D0-9C06-46B50A94D684": "Zip code",
+    "F5DD8BC0-CCD0-42E0-A618-5A2C9A218F3C": "43210"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
