@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "48551F80-9AC9-4F31-9660-6BB3835077BC",
+  "do_objectID": "5D60114A-E313-4117-8A14-F612F92EF861",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,9 +13,9 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 235.0000000000008,
-    "width": 292.0000000000003,
+    "constrainProportions": true,
+    "height": 60,
+    "width": 60,
     "x": 0,
     "y": 0
   },
@@ -28,12 +28,13 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "76D7E66A-8EB6-4EBB-89C5-30002CB6D0F1"
+      "class": "oval",
+      "id": "84FCC441-DD2E-4E95-9B7C-365771546146"
     }
   ],
-  "name": "Base",
+  "name": "Profile pic",
   "nameIsFixed": true,
+  "originalObjectID": "5C5B8082-07AD-498B-8CB5-D3C7A48C3599",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -46,13 +47,13 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8980392156862745,
-          "green": 0.8980392156862745,
-          "red": 0.8980392156862745
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
-        "position": 1,
+        "isEnabled": false,
+        "position": 0,
         "thickness": 1
       }
     ],
@@ -67,39 +68,32 @@
           "green": 1,
           "red": 1
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/4ba89b9f64de4e1c0acbd451a163614b736342ee",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 2,
-        "color": {
-          "_class": "color",
-          "alpha": 0.1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": 0,
-        "spread": 0
-      }
-    ],
-    "sharedObjectID": "B03AED7B-C65C-4B4B-8C43-94FE35183B5D",
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Portrait",
+        "icon": "sun",
+        "index": 6,
+        "mode": "unsplash",
+        "title": "Portrait"
+      }
+    }
   },
   "windingRule": 1
 }

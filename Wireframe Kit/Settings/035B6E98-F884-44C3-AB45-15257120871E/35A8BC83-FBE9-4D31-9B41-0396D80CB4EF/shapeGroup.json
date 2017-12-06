@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "70A8565C-2FD5-4937-B59D-AD39D634E013",
+  "do_objectID": "35A8BC83-FBE9-4D31-9B41-0396D80CB4EF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 235.0000000000008,
-    "width": 292.0000000000008,
+    "height": 318,
+    "width": 1024,
     "x": 0,
-    "y": 0
+    "y": -201
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,11 +29,11 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "9D1ED9F4-F9B7-41D7-A501-AF60436040C6"
+      "id": "FBAD80D0-5DA7-4B85-8870-5ADE6E2B78BE"
     }
   ],
-  "name": "Base",
-  "nameIsFixed": true,
+  "name": "Rectangle Copy",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -46,12 +46,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8980392156862745,
-          "green": 0.8980392156862745,
-          "red": 0.8980392156862745
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
@@ -71,7 +71,7 @@
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],
@@ -79,7 +79,7 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 2,
+        "blurRadius": 25,
         "color": {
           "_class": "color",
           "alpha": 0.1,
@@ -92,13 +92,12 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 0,
+        "offsetY": 10,
         "spread": 0
       }
     ],
-    "sharedObjectID": "B03AED7B-C65C-4B4B-8C43-94FE35183B5D",
     "startDecorationType": 0
   },
   "windingRule": 1
