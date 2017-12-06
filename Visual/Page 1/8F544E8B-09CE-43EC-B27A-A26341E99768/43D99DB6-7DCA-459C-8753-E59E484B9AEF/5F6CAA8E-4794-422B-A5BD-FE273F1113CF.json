@@ -31,6 +31,18 @@
   "name": "dashboard_button",
   "nameIsFixed": false,
   "originalObjectID": "13142D4C-0F0E-42C8-A89A-B4777BF9E049",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C049793E-5355-46FF-A5AB-88954371422F_stringValue",
+      "value": "TRAINING"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E29F0566-8B8A-4BE7-AC28-FFD4FBFF2567_stringValue",
+      "value": "TRAINING"
+    }
+  ],
   "overrides": {
     "C049793E-5355-46FF-A5AB-88954371422F": "TRAINING",
     "E29F0566-8B8A-4BE7-AC28-FFD4FBFF2567": "TRAINING"
@@ -38,6 +50,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

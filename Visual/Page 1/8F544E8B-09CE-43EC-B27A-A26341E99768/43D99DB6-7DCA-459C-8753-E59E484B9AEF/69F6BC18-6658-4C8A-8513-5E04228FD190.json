@@ -31,12 +31,20 @@
   "name": "dashboard_button",
   "nameIsFixed": false,
   "originalObjectID": "077FE618-9202-4E8D-8C26-C51DB2FF1274",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C049793E-5355-46FF-A5AB-88954371422F_stringValue",
+      "value": "NOTIFICATIONS"
+    }
+  ],
   "overrides": {
     "C049793E-5355-46FF-A5AB-88954371422F": "NOTIFICATIONS"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

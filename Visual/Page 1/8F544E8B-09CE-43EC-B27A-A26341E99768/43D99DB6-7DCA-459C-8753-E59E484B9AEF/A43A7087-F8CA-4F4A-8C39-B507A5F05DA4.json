@@ -31,6 +31,23 @@
   "name": "dashboard_button",
   "nameIsFixed": false,
   "originalObjectID": "4BD8A0DD-8597-4226-95DF-F3F7E2127617",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C049793E-5355-46FF-A5AB-88954371422F_stringValue",
+      "value": "DASHBOARD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2A08949E-8FE1-4E3C-862E-4580461F124A_symbolID",
+      "value": "27FB0788-12D4-43DC-8FFC-7C8CAE05AE17"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E29F0566-8B8A-4BE7-AC28-FFD4FBFF2567_stringValue",
+      "value": "DASHBOARD"
+    }
+  ],
   "overrides": {
     "2A08949E-8FE1-4E3C-862E-4580461F124A": {
       "symbolID": "27FB0788-12D4-43DC-8FFC-7C8CAE05AE17"
@@ -41,6 +58,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

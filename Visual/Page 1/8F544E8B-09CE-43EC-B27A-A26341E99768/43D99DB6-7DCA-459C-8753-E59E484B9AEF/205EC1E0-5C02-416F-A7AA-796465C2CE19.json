@@ -31,6 +31,18 @@
   "name": "dashboard_button",
   "nameIsFixed": false,
   "originalObjectID": "E7820DB5-565A-4C94-9D4A-A30F57DB6ACF",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C049793E-5355-46FF-A5AB-88954371422F_stringValue",
+      "value": "LOCUM TENES"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E29F0566-8B8A-4BE7-AC28-FFD4FBFF2567_stringValue",
+      "value": "DASHBOARD"
+    }
+  ],
   "overrides": {
     "C049793E-5355-46FF-A5AB-88954371422F": "LOCUM TENES",
     "E29F0566-8B8A-4BE7-AC28-FFD4FBFF2567": "DASHBOARD"
@@ -38,6 +50,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
