@@ -46,6 +46,18 @@
       "id": "A239C600-3764-4492-880B-CB4CF9339C98"
     },
     {
+      "class": "shapeGroup",
+      "id": "A4F8FD5D-2818-4B86-AC81-DCDF95BD772F"
+    },
+    {
+      "class": "group",
+      "id": "7BDB30C3-68A5-4F14-A3CA-FCC87C61490D"
+    },
+    {
+      "class": "text",
+      "id": "E71085F3-AF6B-4F84-AB02-3E04C5F4E2F4"
+    },
+    {
       "class": "text",
       "id": "D8CD4ACC-0DEE-462D-B229-9FE588DF7ABF"
     },
