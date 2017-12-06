@@ -31,11 +31,14 @@
   "name": "analiytic-tiny-card",
   "nameIsFixed": false,
   "originalObjectID": "A668BAC7-3A4A-460D-B9AA-FD70B00DEB55",
+  "overrideValues": [
+  ],
   "overrides": {
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

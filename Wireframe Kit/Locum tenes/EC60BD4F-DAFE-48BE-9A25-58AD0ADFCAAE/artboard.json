@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1792,
     "width": 1024,
-    "x": -1605,
+    "x": -2077,
     "y": -747
   },
   "hasBackgroundColor": true,
@@ -76,7 +76,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

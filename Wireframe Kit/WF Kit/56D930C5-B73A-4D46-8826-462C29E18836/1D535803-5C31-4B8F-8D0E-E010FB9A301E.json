@@ -31,11 +31,14 @@
   "name": "Sidebar",
   "nameIsFixed": false,
   "originalObjectID": "6E7A9FD2-0ED9-4E9C-9107-7604A1DFE4ED",
+  "overrideValues": [
+  ],
   "overrides": {
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -31,9 +31,14 @@
   "name": "dashboard_button",
   "nameIsFixed": false,
   "originalObjectID": "E1618797-46C3-49C2-8601-19DF857A2181",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

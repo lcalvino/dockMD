@@ -31,9 +31,14 @@
   "name": "Form/dropdown",
   "nameIsFixed": false,
   "originalObjectID": "519DBC88-728D-46DE-A73E-1F7FF0BB9F21",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

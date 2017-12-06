@@ -31,6 +31,18 @@
   "name": "Form/text_field",
   "nameIsFixed": false,
   "originalObjectID": "BC49EA7F-F348-4DB4-AE52-62AAF61B2D47",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "915307CB-52C7-47D0-9C06-46B50A94D684_stringValue",
+      "value": "Last Name"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5DD8BC0-CCD0-42E0-A618-5A2C9A218F3C_stringValue",
+      "value": "Doe"
+    }
+  ],
   "overrides": {
     "915307CB-52C7-47D0-9C06-46B50A94D684": "Last Name",
     "F5DD8BC0-CCD0-42E0-A618-5A2C9A218F3C": "Doe"
@@ -38,6 +50,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

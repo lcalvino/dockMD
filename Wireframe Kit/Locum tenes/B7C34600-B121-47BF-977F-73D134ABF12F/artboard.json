@@ -22,15 +22,17 @@
     "constrainProportions": false,
     "height": 1366,
     "width": 1024,
-    "x": -3592,
+    "x": -3719,
     "y": -747
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      65,
+      958
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -44,6 +46,18 @@
     {
       "class": "shapeGroup",
       "id": "A239C600-3764-4492-880B-CB4CF9339C98"
+    },
+    {
+      "class": "group",
+      "id": "0535A4A0-E73C-43E8-9D88-3D67AF92B0B6"
+    },
+    {
+      "class": "group",
+      "id": "57519A94-B6A5-48B6-992E-275956179C0F"
+    },
+    {
+      "class": "group",
+      "id": "B0CC5A55-CB05-4980-AF32-75E2CE4C94AD"
     },
     {
       "class": "shapeGroup",
@@ -112,15 +126,27 @@
     {
       "class": "text",
       "id": "90338CE8-43EF-41AF-A072-56DFB147CA35"
+    },
+    {
+      "class": "group",
+      "id": "0C28837E-75AF-4CB5-B1D2-257825BA104E"
+    },
+    {
+      "class": "group",
+      "id": "151C8BD7-64A1-4DB7-BC86-93B1EB44C63E"
+    },
+    {
+      "class": "group",
+      "id": "3FA004E0-E9FC-4518-B69B-C97C90AF753B"
     }
   ],
-  "name": "Locum tenes questionary Copy",
+  "name": "Locum tenes questionary-Map",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
