@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "8D054AF7-B1D5-4F4A-9BAA-68955A92DB69",
+  "do_objectID": "B38A6FBE-48DE-40C6-BF55-F7CF61E2B70D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 67,
-    "width": 119.0082644628099,
-    "x": 0,
-    "y": 0
+    "height": 205,
+    "width": 645,
+    "x": 190,
+    "y": 589
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,14 +25,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "6D2E5FAC-61CB-4A2E-BEB9-1398A2210423"
+      "id": "EE9A367E-0C62-4D27-8D31-E188BC6745C7"
     }
   ],
-  "name": "Rectangle 640",
+  "name": "Rectangle 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,15 +63,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8666666666666667,
-          "green": 0.8666666666666667,
-          "red": 0.8666666666666667
+          "blue": 0.9411764705882353,
+          "green": 0.9411764705882353,
+          "red": 0.9411764705882353
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],
