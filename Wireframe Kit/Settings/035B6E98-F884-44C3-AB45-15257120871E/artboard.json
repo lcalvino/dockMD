@@ -1,0 +1,182 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9411764705882353,
+    "green": 0.9411764705882353,
+    "red": 0.9411764705882353
+  },
+  "do_objectID": "035B6E98-F884-44C3-AB45-15257120871E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1366,
+    "width": 1024,
+    "x": -363,
+    "y": -534
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DF8159B7-A325-43AB-B1F4-C9B05E21F1EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F957669-8795-4001-83D5-A400AD95FFA1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C9694F1A-B726-4BD6-9B35-41FB1ACD7FB3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D601D321-A63C-4653-8859-A4F85AB0076E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "246F061E-CB09-4017-8226-0B5ABB8EE886"
+    },
+    {
+      "class": "text",
+      "id": "E16DE88F-F9F8-4C6C-956A-47ED0BD73903"
+    },
+    {
+      "class": "text",
+      "id": "84961B0E-9B47-40D2-837E-4466E21D6BD0"
+    },
+    {
+      "class": "text",
+      "id": "17AA3B2E-377E-4DEE-A9E5-A3B8B6455749"
+    },
+    {
+      "class": "text",
+      "id": "EA0A3F79-97D6-42C2-AAD6-74AFB53E2B68"
+    },
+    {
+      "class": "text",
+      "id": "2AA7C8C7-1517-44A9-BCA4-2A61ED9A0956"
+    },
+    {
+      "class": "text",
+      "id": "1FAA9E7C-E1A6-44FA-A300-4C2B5868F884"
+    },
+    {
+      "class": "text",
+      "id": "A00C4FAB-8C22-41E0-A92D-B3A56532B82F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "35A8BC83-FBE9-4D31-9B41-0396D80CB4EF"
+    },
+    {
+      "class": "text",
+      "id": "AFC48891-27D8-49FB-B066-9E771EAA5F66"
+    },
+    {
+      "class": "group",
+      "id": "812F28FE-29DF-4540-9C8D-54E65F0F22FF"
+    },
+    {
+      "class": "group",
+      "id": "B5EAD743-8E03-49F9-9411-BE9339C8A403"
+    },
+    {
+      "class": "text",
+      "id": "D8C78FBB-60B3-4DC3-B0BB-0697489A923D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "19B1BE11-20A7-45C5-9B82-FF00DB61F328"
+    },
+    {
+      "class": "text",
+      "id": "C85273D3-FE95-47F4-9305-97046A4B23C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86EC22D3-8DDC-479B-ACD6-267BA69829AD"
+    },
+    {
+      "class": "group",
+      "id": "A2EB542D-FD20-4910-8E4A-5F394E38B184"
+    },
+    {
+      "class": "group",
+      "id": "B4D48A32-AD52-48C5-89CE-C9F9E0314A92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16EE4E3E-8F35-4E5B-BA38-32934A115D5E"
+    },
+    {
+      "class": "group",
+      "id": "5A305590-942E-43EF-B68C-3DD11AF8ED68"
+    },
+    {
+      "class": "group",
+      "id": "21C54416-2CB1-4124-829F-104F6A52D4BB"
+    }
+  ],
+  "name": "Profile",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

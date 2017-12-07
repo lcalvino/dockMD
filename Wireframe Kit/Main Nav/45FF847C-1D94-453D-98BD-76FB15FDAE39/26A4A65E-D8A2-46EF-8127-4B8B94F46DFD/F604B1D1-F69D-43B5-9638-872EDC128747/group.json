@@ -16,7 +16,7 @@
     "height": 295,
     "width": 906,
     "x": 0,
-    "y": 102
+    "y": 110
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -36,6 +36,38 @@
     {
       "class": "group",
       "id": "F6C1F9AB-D7F9-41D4-B27A-B23A3D571C67"
+    },
+    {
+      "class": "text",
+      "id": "50CAEA28-F353-48E6-8EE1-B710022B75BF"
+    },
+    {
+      "class": "text",
+      "id": "D8583FA9-F088-4356-93B4-58EF8E192CB4"
+    },
+    {
+      "class": "text",
+      "id": "CF52A29C-957D-4510-88A2-BEF27B40D866"
+    },
+    {
+      "class": "text",
+      "id": "C3641CE4-FAF6-4C7D-A3A4-7423EB0F25B4"
+    },
+    {
+      "class": "text",
+      "id": "5D317A0D-C4F9-43A1-BE95-3079CA8E95B7"
+    },
+    {
+      "class": "text",
+      "id": "EDC6B2A5-B341-42CE-A510-E4A9A465CBE9"
+    },
+    {
+      "class": "text",
+      "id": "D1C4013F-D643-4D1B-B9FC-BF695D5258EE"
+    },
+    {
+      "class": "text",
+      "id": "72AE6A02-970B-46B1-BFF0-492512FFD65E"
     },
     {
       "class": "group",

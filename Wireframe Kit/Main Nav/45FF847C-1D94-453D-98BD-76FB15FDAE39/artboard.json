@@ -26,7 +26,7 @@
     "y": -363
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,22 +48,6 @@
     {
       "class": "group",
       "id": "260BC237-56C2-482A-83F9-85CAABF5B353"
-    },
-    {
-      "class": "group",
-      "id": "030FE494-FB30-481A-A8F6-644959C96061"
-    },
-    {
-      "class": "group",
-      "id": "E002E351-DCF7-44F7-95AA-A17E1FC2305A"
-    },
-    {
-      "class": "group",
-      "id": "32FB4B57-5E13-47FC-A43B-7FBCC00CD90E"
-    },
-    {
-      "class": "group",
-      "id": "FB6682CC-74C5-4F07-8C59-1A44C85412F6"
     },
     {
       "class": "text",
@@ -91,6 +75,26 @@
     },
     {
       "class": "shapeGroup",
+      "id": "B2572DA6-940D-4AD8-A233-A50CC3DC330E"
+    },
+    {
+      "class": "group",
+      "id": "030FE494-FB30-481A-A8F6-644959C96061"
+    },
+    {
+      "class": "group",
+      "id": "E002E351-DCF7-44F7-95AA-A17E1FC2305A"
+    },
+    {
+      "class": "group",
+      "id": "32FB4B57-5E13-47FC-A43B-7FBCC00CD90E"
+    },
+    {
+      "class": "group",
+      "id": "FB6682CC-74C5-4F07-8C59-1A44C85412F6"
+    },
+    {
+      "class": "shapeGroup",
       "id": "B4D7F8D2-2A82-419B-80B0-0A3CED3BDB5C"
     },
     {
@@ -108,6 +112,10 @@
     {
       "class": "shapeGroup",
       "id": "D0AFDFC1-C8C2-4282-A0C3-B9B65C65EDC0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE53B825-D4F7-494D-B289-DE13E05813D2"
     }
   ],
   "name": "Financials",
