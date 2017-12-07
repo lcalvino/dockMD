@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "E5C316DD-DE4C-4282-B0D9-F6EA7CB879BC",
+  "do_objectID": "4B20F288-8707-44A3-B326-43D564905DD4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 58,
+    "height": 87,
     "width": 649,
     "x": 188,
     "y": 451
@@ -27,7 +27,7 @@
   "layers": [
     {
       "class": "text",
-      "id": "43B97B02-BCB2-4E48-AC0A-962ECF620E3E"
+      "id": "ECF14028-182D-42C8-A95A-E2A35173378A"
     }
   ],
   "name": "Group Copy 4",

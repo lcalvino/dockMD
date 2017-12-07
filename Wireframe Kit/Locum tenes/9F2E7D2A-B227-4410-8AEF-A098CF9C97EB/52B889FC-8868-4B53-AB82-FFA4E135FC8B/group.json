@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "E5C316DD-DE4C-4282-B0D9-F6EA7CB879BC",
+  "do_objectID": "52B889FC-8868-4B53-AB82-FFA4E135FC8B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,25 +13,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 58,
-    "width": 649,
-    "x": 188,
-    "y": 451
+    "height": 45,
+    "width": 100,
+    "x": 290,
+    "y": 881
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "74A2A612-D93D-4221-8F88-0FE9394D21B4"
+    },
+    {
       "class": "text",
-      "id": "43B97B02-BCB2-4E48-AC0A-962ECF620E3E"
+      "id": "D2814706-8EDB-42A3-BB72-00F8D280132F"
     }
   ],
-  "name": "Group Copy 4",
-  "nameIsFixed": false,
+  "name": "Delete Copy 3",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

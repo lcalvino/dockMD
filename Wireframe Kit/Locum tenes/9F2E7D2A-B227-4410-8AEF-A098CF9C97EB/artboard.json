@@ -7,7 +7,7 @@
     "green": 0.9411764705882353,
     "red": 0.9411764705882353
   },
-  "do_objectID": "A623013C-328C-40B0-A9AD-C0FCAA80C0D8",
+  "do_objectID": "9F2E7D2A-B227-4410-8AEF-A098CF9C97EB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 1366,
     "width": 1024,
-    "x": 9605,
+    "x": 10747,
     "y": -756
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -43,90 +43,94 @@
   "layers": [
     {
       "class": "text",
-      "id": "0FE10A20-6C1B-4167-818D-02F0BD774F8E"
+      "id": "A3E6F6D5-6241-4D3C-80A5-10A4867EA1E8"
     },
     {
       "class": "shapeGroup",
-      "id": "B41DB779-C8C8-4882-BB6E-AE5A79F946E9"
+      "id": "F75E84F3-D043-4227-BC0D-85E7B18231B0"
     },
     {
       "class": "text",
-      "id": "C933A773-979B-4390-8F28-B1888BA0B188"
+      "id": "07EAA800-7F4A-45C2-92F4-1DDD9F8B3FFC"
     },
     {
       "class": "text",
-      "id": "B361E154-689F-448B-BBE5-5B8860C771A7"
+      "id": "1D714FEA-5DDA-407F-895B-C4DCE01A8AC5"
     },
     {
       "class": "group",
-      "id": "929C1931-6399-4996-AF2A-90218FCE1CAB"
+      "id": "09A9CDC4-7871-4C2E-B5C8-F31EA4953F97"
     },
     {
       "class": "symbolInstance",
-      "id": "E749AD6F-2008-422C-9363-E0AD5E2796EF"
+      "id": "21AA1923-A44D-481C-B2F9-6CC15E724160"
     },
     {
       "class": "shapeGroup",
-      "id": "F92E5C0A-609B-4A22-AA90-877960B3AF29"
+      "id": "BE217888-26CE-4864-9066-4F8775032E96"
     },
     {
       "class": "text",
-      "id": "ECC9BE8B-023F-4B8F-AC4A-52B16B92610A"
+      "id": "7A8704EC-7E53-41AD-B510-3EFE5C7C5E1E"
     },
     {
       "class": "text",
-      "id": "AA63ADA1-831B-41DB-AAE2-2D82FC9F6320"
+      "id": "166447A7-7E8B-48B1-89A4-1658DC1CF654"
     },
     {
       "class": "shapeGroup",
-      "id": "8BD8B942-DC99-4374-8E25-280738B24AA0"
-    },
-    {
-      "class": "group",
-      "id": "C8224DFB-22EE-48E0-AF14-BE0486FFE064"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B38A6FBE-48DE-40C6-BF55-F7CF61E2B70D"
-    },
-    {
-      "class": "group",
-      "id": "C374C855-A48D-4B61-B3BF-B1CC294431E0"
-    },
-    {
-      "class": "group",
-      "id": "8D6A6CFD-A016-4386-82FF-B256152BFF78"
+      "id": "2B11B640-5D3E-4C11-A675-663EAD0E2D0B"
     },
     {
       "class": "symbolInstance",
-      "id": "8D327715-D69D-44C3-9A87-F8C9D620DBA3"
+      "id": "AD44DE4B-BFC2-47D2-A718-FBF1107B38C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B081D3AD-94E0-4129-864F-5CC71C144C4F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32654E13-5581-49FB-BB08-746FA5FCFA69"
     },
     {
       "class": "group",
-      "id": "3BC10240-23F6-48DB-AE1B-68964B8777B7"
+      "id": "DBAA83B3-AD7F-45A4-A72B-AC23B99C4B04"
     },
     {
       "class": "group",
-      "id": "3F2038E4-DB5A-4EDB-AEEF-A0C38B795FBB"
+      "id": "B4FB6C7B-FE25-43A3-8A1A-70E387FCE4D3"
     },
     {
       "class": "group",
-      "id": "E5C316DD-DE4C-4282-B0D9-F6EA7CB879BC"
+      "id": "4B20F288-8707-44A3-B326-43D564905DD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C72D62F5-532E-4F32-8709-0D8611A36035"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "368348F2-F619-4ED5-BC34-196B808B6AE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BAF49D14-836D-4E8C-88BB-706DCE1E7E2C"
     },
     {
       "class": "group",
-      "id": "AFC0C425-1E0F-4B7D-B86F-5DADC020F60D"
+      "id": "F90FD766-B615-455E-B90B-048E780BF055"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70F6B9B5-D551-4086-BAEB-69AA0C442DA9"
     },
     {
       "class": "group",
-      "id": "F15A45C7-D016-4316-9918-1B8968CAD0B5"
-    },
-    {
-      "class": "group",
-      "id": "40D9CB95-0F74-45B2-B97B-0F1065AE8347"
+      "id": "52B889FC-8868-4B53-AB82-FFA4E135FC8B"
     }
   ],
-  "name": "Locum tenes-Offer detail",
+  "name": "Locum tenes-travel logistics",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

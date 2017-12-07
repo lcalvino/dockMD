@@ -26,7 +26,7 @@
     "y": -731
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -178,7 +178,7 @@
       "id": "49C705A0-E617-48AA-B905-4DDDB58AF097"
     }
   ],
-  "name": "Locum-tenes-detail Copy 3",
+  "name": "Locum tenes-setting interview",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

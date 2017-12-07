@@ -26,7 +26,7 @@
     "y": -738
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -178,7 +178,7 @@
       "id": "6AA7735A-83AF-48C7-86AA-97EFFD214E83"
     }
   ],
-  "name": "Locum-tenes-detail Copy 5",
+  "name": "Locum tenes-offer received",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
