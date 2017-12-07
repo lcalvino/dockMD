@@ -171,10 +171,6 @@
     },
     {
       "class": "text",
-      "id": "244AF57D-42C3-4B55-A373-CA67906A517E"
-    },
-    {
-      "class": "text",
       "id": "AB48CF18-A3B5-424B-834F-300DBB0C863A"
     },
     {
@@ -184,6 +180,18 @@
     {
       "class": "text",
       "id": "46D2DA56-EFA1-40F9-AACD-A292326C557D"
+    },
+    {
+      "class": "bitmap",
+      "id": "4C4E3B45-865A-447E-8F91-362921F0ADF3"
+    },
+    {
+      "class": "text",
+      "id": "CB719F4C-F9EB-4B4C-82CE-9D9B60A2E4E0"
+    },
+    {
+      "class": "bitmap",
+      "id": "46A02BB3-5F67-45AC-84F2-090BA8967F43"
     }
   ],
   "name": "Tutorials",

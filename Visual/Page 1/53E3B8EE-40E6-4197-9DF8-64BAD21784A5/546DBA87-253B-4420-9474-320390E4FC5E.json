@@ -35,7 +35,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "915307CB-52C7-47D0-9C06-46B50A94D684_stringValue",
-      "value": "Adress 1"
+      "value": "Addres 1"
     },
     {
       "_class": "overrideValue",
@@ -44,7 +44,7 @@
     }
   ],
   "overrides": {
-    "915307CB-52C7-47D0-9C06-46B50A94D684": "Adress 1",
+    "915307CB-52C7-47D0-9C06-46B50A94D684": "Addres 1",
     "F5DD8BC0-CCD0-42E0-A618-5A2C9A218F3C": "720 Kihn Expressway Apt. 299"
   },
   "resizingConstraint": 63,

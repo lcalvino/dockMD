@@ -184,6 +184,10 @@
     {
       "class": "text",
       "id": "A0EBE98A-D130-4844-93E0-6E0BDD2DBD3D"
+    },
+    {
+      "class": "bitmap",
+      "id": "A705CC68-1C8F-4761-AA92-662F0CD61517"
     }
   ],
   "name": "Tutorials Copy",

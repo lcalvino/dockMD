@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
@@ -46,7 +46,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.5,
+          "alpha": 1,
           "blue": 0.9921568627450981,
           "green": 0.403921568627451,
           "red": 0.7911498294970166

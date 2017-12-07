@@ -115,6 +115,34 @@
     {
       "class": "artboard",
       "id": "C6FCB20B-7CD5-41DF-B14D-BA0593E3A49A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7D63DAF6-1AB5-4257-9376-203999551CD6"
+    },
+    {
+      "class": "text",
+      "id": "FA5407CE-2AE8-4BD0-8AD8-85D7F3327AC8"
+    },
+    {
+      "class": "text",
+      "id": "5D4DC097-9AF4-4359-8FCC-C98E009C9022"
+    },
+    {
+      "class": "text",
+      "id": "3ACD08CF-11F8-4EF0-BC30-A7E446749178"
+    },
+    {
+      "class": "text",
+      "id": "C96AB97F-44B3-402E-861B-2E09594A664E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD8F5A79-86A3-4091-99EC-95368C92B862"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8FD8BC7D-6F08-4322-AD8A-465B58F0C8BF"
     }
   ],
   "name": "Page 1",
