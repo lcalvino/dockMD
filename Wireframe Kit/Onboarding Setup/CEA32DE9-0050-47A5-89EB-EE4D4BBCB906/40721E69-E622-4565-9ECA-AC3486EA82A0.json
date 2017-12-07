@@ -31,6 +31,18 @@
   "name": "Form/dropdown",
   "nameIsFixed": false,
   "originalObjectID": "519DBC88-728D-46DE-A73E-1F7FF0BB9F21",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF115565-BB32-431A-BF6C-275F76ACB7A9_stringValue",
+      "value": "Directory"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "34D92708-C3B6-4DA2-8085-2802D5BD8CCD_stringValue",
+      "value": "Name of Speciality Board"
+    }
+  ],
   "overrides": {
     "34D92708-C3B6-4DA2-8085-2802D5BD8CCD": "Name of Speciality Board",
     "DF115565-BB32-431A-BF6C-275F76ACB7A9": "Directory"
@@ -38,6 +50,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -31,6 +31,18 @@
   "name": "Form/small_text_field",
   "nameIsFixed": false,
   "originalObjectID": "353BFE00-8F8C-43BB-BC8E-30A064714694",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5824371D-BE35-4328-ACD6-8F80AA1A53F3_stringValue",
+      "value": "Graduation Year"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6DFD6CDB-6BDE-488A-89F0-75B40D2F2715_stringValue",
+      "value": "2000"
+    }
+  ],
   "overrides": {
     "5824371D-BE35-4328-ACD6-8F80AA1A53F3": "Graduation Year",
     "6DFD6CDB-6BDE-488A-89F0-75B40D2F2715": "2000"
@@ -38,6 +50,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

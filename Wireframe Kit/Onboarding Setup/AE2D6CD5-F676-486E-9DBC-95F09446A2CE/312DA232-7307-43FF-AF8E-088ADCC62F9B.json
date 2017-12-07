@@ -31,9 +31,14 @@
   "name": "Form/text_field",
   "nameIsFixed": false,
   "originalObjectID": "BC49EA7F-F348-4DB4-AE52-62AAF61B2D47",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

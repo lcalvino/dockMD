@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1366,
     "width": 1024,
-    "x": -4735,
+    "x": -5233,
     "y": -747
   },
   "hasBackgroundColor": true,
@@ -54,8 +54,8 @@
       "id": "D7C84548-EA52-467C-9D61-67DE32BFAB66"
     },
     {
-      "class": "group",
-      "id": "64EC9B3D-81E9-4C5F-9E11-FC2AB7DD0648"
+      "class": "text",
+      "id": "282D5737-C191-496F-9CD5-4A3A2BC9F886"
     },
     {
       "class": "group",
@@ -94,49 +94,21 @@
       "id": "83E214BD-8923-443A-9DE9-1EC047326A50"
     },
     {
-      "class": "text",
-      "id": "1CED10D0-33D6-4B81-A798-75293855D64B"
-    },
-    {
-      "class": "text",
-      "id": "101864E0-D7C4-479D-9371-30EACEBB79B4"
-    },
-    {
-      "class": "group",
-      "id": "D1A45AC3-C4B1-4A84-84C7-B6305F32C4B9"
-    },
-    {
       "class": "group",
       "id": "E176E78D-674D-42A6-9856-EE4858951D59"
     },
     {
-      "class": "text",
-      "id": "0DA5CF88-F595-4889-B2A4-DA820AF97FD2"
-    },
-    {
-      "class": "text",
-      "id": "35EA7DE6-7362-4C33-9C97-FF610A8746D4"
-    },
-    {
-      "class": "text",
-      "id": "958CE2BD-3790-4D12-8AC4-0A0E22C047DD"
-    },
-    {
-      "class": "text",
-      "id": "39A6B254-20F4-4F66-8459-4456FBF50E0C"
-    },
-    {
-      "class": "text",
-      "id": "17D055AA-A526-4051-8F67-73626695D03A"
+      "class": "group",
+      "id": "91AFC0C3-ECE3-427D-AAC7-821E40DA1531"
     }
   ],
-  "name": "Locum tenes questionary",
+  "name": "Locum tenes questionary-Calendar",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

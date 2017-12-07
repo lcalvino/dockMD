@@ -31,9 +31,14 @@
   "name": "header.sidebar",
   "nameIsFixed": false,
   "originalObjectID": "FFCB0897-DA30-4A0E-9683-0A1D668C1FF1",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

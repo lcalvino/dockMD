@@ -31,9 +31,14 @@
   "name": "Form/date_field",
   "nameIsFixed": false,
   "originalObjectID": "D1697F44-F6EF-42FC-BC91-D7F7B4DE7A8C",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
