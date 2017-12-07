@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -36,6 +36,22 @@
     {
       "class": "group",
       "id": "21612EC5-0B27-4B16-AB86-C039C5B17E63"
+    },
+    {
+      "class": "text",
+      "id": "BE8329B9-31D4-412E-A534-95A346DD02B7"
+    },
+    {
+      "class": "text",
+      "id": "B2D200A9-8941-49F4-AAEB-A73CFBFAFD64"
+    },
+    {
+      "class": "text",
+      "id": "3DDF2662-A0C1-4909-A13F-33D98F377649"
+    },
+    {
+      "class": "text",
+      "id": "C3FCC140-8618-421B-BFB4-C394AD79AB03"
     }
   ],
   "name": "User Copy 2",

@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -84,6 +84,34 @@
     {
       "class": "group",
       "id": "028CB7A4-B402-458B-8425-791D4D85FE03"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "350C6A2F-1F5C-4CA0-9309-78D9F4745FAC"
+    },
+    {
+      "class": "text",
+      "id": "980218B6-2B30-4369-8263-6719BDD1F90B"
+    },
+    {
+      "class": "text",
+      "id": "821FA84B-5B2E-4591-91B6-274073C789C6"
+    },
+    {
+      "class": "text",
+      "id": "BCE599BA-E939-4FC6-B22D-293209B59DE3"
+    },
+    {
+      "class": "text",
+      "id": "FF13C52D-17DC-4D2C-9624-8FCFF97CE0B1"
+    },
+    {
+      "class": "text",
+      "id": "51052DAF-030F-4F63-AEA8-3060AC212721"
+    },
+    {
+      "class": "text",
+      "id": "0BAEF512-CE74-4677-8656-82403E8841BA"
     }
   ],
   "name": "General",

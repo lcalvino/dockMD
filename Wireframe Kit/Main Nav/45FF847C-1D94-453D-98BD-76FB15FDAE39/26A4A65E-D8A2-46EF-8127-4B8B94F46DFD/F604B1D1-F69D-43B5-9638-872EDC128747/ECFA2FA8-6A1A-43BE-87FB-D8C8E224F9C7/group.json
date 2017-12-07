@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 46,
+    "height": 217,
     "width": 906.0000000000005,
     "x": 0,
-    "y": 249
+    "y": 78
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -36,6 +36,22 @@
     {
       "class": "group",
       "id": "0750909F-C2E7-4024-8F75-224C0B295781"
+    },
+    {
+      "class": "text",
+      "id": "D587800A-8864-4BB7-B0C2-9F3A43C267EA"
+    },
+    {
+      "class": "text",
+      "id": "1E285667-B272-4833-905A-E88C655803C7"
+    },
+    {
+      "class": "text",
+      "id": "1A2A4E45-8CA7-4A62-B3AA-AF648F08697F"
+    },
+    {
+      "class": "text",
+      "id": "CFB62D2A-9918-4C5C-B747-33548AB42668"
     }
   ],
   "name": "User Copy 5",

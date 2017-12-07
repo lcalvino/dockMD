@@ -84,6 +84,22 @@
     {
       "class": "group",
       "id": "5DE56093-A51D-4426-90F1-D31B42674549"
+    },
+    {
+      "class": "text",
+      "id": "DA090AAD-85D7-4643-A76F-8CFA2CB34F88"
+    },
+    {
+      "class": "text",
+      "id": "9A621737-9954-4D9C-856F-3701AFC23E66"
+    },
+    {
+      "class": "text",
+      "id": "4E2CF251-89A9-41FD-BDCE-64D1FD46B4E5"
+    },
+    {
+      "class": "text",
+      "id": "0AD2BA43-3A00-43F2-A138-7EF3D2E552D7"
     }
   ],
   "name": "Notifications",
