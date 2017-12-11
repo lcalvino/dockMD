@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1,
+  "changeIdentifier": 3,
   "do_objectID": "0BACB8F4-7C90-4FCA-B32A-F7C3F64C210A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "Done",
   "nameIsFixed": false,
+  "originalObjectID": "0BACB8F4-7C90-4FCA-B32A-F7C3F64C210A",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

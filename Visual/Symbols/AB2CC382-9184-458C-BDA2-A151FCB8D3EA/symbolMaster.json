@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1,
+  "changeIdentifier": 3,
   "do_objectID": "AB2CC382-9184-458C-BDA2-A151FCB8D3EA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "Location",
   "nameIsFixed": false,
+  "originalObjectID": "AB2CC382-9184-458C-BDA2-A151FCB8D3EA",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

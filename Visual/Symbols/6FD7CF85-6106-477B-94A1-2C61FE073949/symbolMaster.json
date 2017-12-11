@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1,
+  "changeIdentifier": 3,
   "do_objectID": "6FD7CF85-6106-477B-94A1-2C61FE073949",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "Background",
   "nameIsFixed": false,
+  "originalObjectID": "6FD7CF85-6106-477B-94A1-2C61FE073949",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

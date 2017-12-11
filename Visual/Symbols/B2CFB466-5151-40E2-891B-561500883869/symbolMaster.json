@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1,
+  "changeIdentifier": 3,
   "do_objectID": "B2CFB466-5151-40E2-891B-561500883869",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "Calendar",
   "nameIsFixed": false,
+  "originalObjectID": "B2CFB466-5151-40E2-891B-561500883869",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

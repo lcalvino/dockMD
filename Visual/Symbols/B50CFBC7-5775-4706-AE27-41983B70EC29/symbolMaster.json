@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8,
+  "changeIdentifier": 14,
   "do_objectID": "B50CFBC7-5775-4706-AE27-41983B70EC29",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,7 +50,7 @@
   ],
   "name": "Form/checkbox",
   "nameIsFixed": false,
-  "originalObjectID": "9811CF14-E455-4FE3-93CA-C06EB3449A08",
+  "originalObjectID": "B50CFBC7-5775-4706-AE27-41983B70EC29",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

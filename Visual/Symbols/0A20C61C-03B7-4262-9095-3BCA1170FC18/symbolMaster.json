@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 7,
   "do_objectID": "0A20C61C-03B7-4262-9095-3BCA1170FC18",
   "exportOptions": {
     "_class": "exportOptions",
@@ -58,6 +58,7 @@
   ],
   "name": "Banana",
   "nameIsFixed": false,
+  "originalObjectID": "0A20C61C-03B7-4262-9095-3BCA1170FC18",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

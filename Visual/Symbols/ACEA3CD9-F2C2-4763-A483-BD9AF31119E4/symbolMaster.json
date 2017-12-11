@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 21,
+  "changeIdentifier": 26,
   "do_objectID": "ACEA3CD9-F2C2-4763-A483-BD9AF31119E4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,7 +50,7 @@
   ],
   "name": "Form/small_text_field",
   "nameIsFixed": false,
-  "originalObjectID": "353BFE00-8F8C-43BB-BC8E-30A064714694",
+  "originalObjectID": "ACEA3CD9-F2C2-4763-A483-BD9AF31119E4",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 4,
   "do_objectID": "5018E15B-F9AB-42BC-8C0A-AFCF1BA6FB03",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "Button 1",
   "nameIsFixed": false,
+  "originalObjectID": "5018E15B-F9AB-42BC-8C0A-AFCF1BA6FB03",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
