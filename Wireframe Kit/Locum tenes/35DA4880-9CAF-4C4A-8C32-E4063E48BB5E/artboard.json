@@ -26,7 +26,7 @@
     "y": -743
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -171,7 +171,11 @@
     },
     {
       "class": "group",
-      "id": "4CF8B73E-40C3-4CBB-9C7D-7817C93824A2"
+      "id": "8E2E718A-ADDE-407B-9F86-9E27D08EA265"
+    },
+    {
+      "class": "group",
+      "id": "C8B6707C-3DEF-456F-B135-49569E2C85AC"
     }
   ],
   "name": "Locum-tenes-detail",
