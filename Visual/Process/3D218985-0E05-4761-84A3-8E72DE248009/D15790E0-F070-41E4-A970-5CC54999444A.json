@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D15790E0-F070-41E4-A970-5CC54999444A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 833,
+    "x": 96,
+    "y": 805
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "No_Yes_NA Buttons Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C45B0FF5-193E-4FD3-BFC8-552745C53DA2_symbolID",
+      "value": "83BDFE65-E5F3-4D35-9C18-34B4BBBB5244"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A8A2AF7D-4304-48C1-A678-0DC87068ED5A_symbolID",
+      "value": "AD7A98AA-2295-4EC7-A0AA-A314FC6410EC"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "98E6E984-83A2-4DF1-9844-CD40CC73DE0A_symbolID",
+      "value": "D89846EA-B45B-4398-B514-435D4067FBFD"
+    }
+  ],
+  "overrides": {
+    "98E6E984-83A2-4DF1-9844-CD40CC73DE0A": {
+      "symbolID": "D89846EA-B45B-4398-B514-435D4067FBFD"
+    },
+    "A8A2AF7D-4304-48C1-A678-0DC87068ED5A": {
+      "symbolID": "AD7A98AA-2295-4EC7-A0AA-A314FC6410EC"
+    },
+    "C45B0FF5-193E-4FD3-BFC8-552745C53DA2": {
+      "symbolID": "83BDFE65-E5F3-4D35-9C18-34B4BBBB5244"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "04CFDFB2-14D1-4E4D-BA4A-1D12516F9F4F",
+  "verticalSpacing": 0
+}

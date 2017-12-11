@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3859,
+  "changeIdentifier": 3865,
   "do_objectID": "9811CF14-E455-4FE3-93CA-C06EB3449A08",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 5
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,11 +45,7 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "F3FADE09-A246-4DF7-B0B2-20CF2ABFD974"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "41073936-3D66-4307-A7C3-6DB70ACFB0CA"
+      "id": "9D1234B3-0ACC-400A-B6EE-7F317B78EFB9"
     }
   ],
   "name": "Form/checkbox",

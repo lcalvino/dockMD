@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "74BCFFC8-024C-4EC5-863C-A0607C5E0C4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 954,
+    "x": 35,
+    "y": 293
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Tittle",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34879BA7-D99E-4360-8594-295F1DB97CB6",
+      "overrideName": "7F2EC9A4-0FE3-415D-B9BB-5AA001A0EA03_stringValue",
+      "value": "Do you have a medical condition which in any way impairs or limits your ability to practice medicine with reasonable skill and safety?"
+    }
+  ],
+  "overrides": {
+    "7F2EC9A4-0FE3-415D-B9BB-5AA001A0EA03": "Do you have a medical condition which in any way impairs or limits your ability to practice medicine with reasonable skill and safety?"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "359860A9-DEE8-4BE1-AE04-74B9D6F37CD5",
+  "verticalSpacing": 0
+}

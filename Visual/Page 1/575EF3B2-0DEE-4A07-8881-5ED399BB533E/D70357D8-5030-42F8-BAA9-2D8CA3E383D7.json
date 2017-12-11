@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D70357D8-5030-42F8-BAA9-2D8CA3E383D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 99,
+    "width": 954,
+    "x": 35,
+    "y": 407
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Questionnaire Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2DCF52AA-C43D-4139-80BF-B20C4815BC5C",
+      "overrideName": "6F31892D-C830-4062-AF46-76AC090D756F_stringValue",
+      "value": "Are the limitations or impairments caused by your medical condition reduced or ameliorated because you are receiving ongoing treatment, with or without medication, or participate in a monitoring program?"
+    }
+  ],
+  "overrides": {
+    "6F31892D-C830-4062-AF46-76AC090D756F": "Are the limitations or impairments caused by your medical condition reduced or ameliorated because you are receiving ongoing treatment, with or without medication, or participate in a monitoring program?"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "043A5B66-EA9D-43CF-91AF-51627B7ED2EF",
+  "verticalSpacing": 0
+}
