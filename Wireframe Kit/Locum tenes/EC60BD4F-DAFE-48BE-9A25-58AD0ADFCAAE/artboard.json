@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1792,
+    "height": 1860,
     "width": 1024,
     "x": -2077,
-    "y": -747
+    "y": -815
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -44,6 +44,14 @@
     {
       "class": "shapeGroup",
       "id": "DCC9CC5C-E9A0-4096-A97D-0DAD547E8958"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF166A65-3F85-4FA2-A751-02D53738F28C"
+    },
+    {
+      "class": "group",
+      "id": "3B99C655-4F70-4CF6-BF20-7AFDE1DC9292"
     },
     {
       "class": "group",
@@ -68,6 +76,34 @@
     {
       "class": "text",
       "id": "010DECA7-3337-447D-93FB-3C68379D744B"
+    },
+    {
+      "class": "text",
+      "id": "0240EA14-E643-4087-9068-ABFEA754FCCD"
+    },
+    {
+      "class": "text",
+      "id": "297F509D-8451-41A6-B093-1321F655CD09"
+    },
+    {
+      "class": "text",
+      "id": "99C0DB4D-2B5B-4C9E-B4E4-973C5FBA7A2A"
+    },
+    {
+      "class": "text",
+      "id": "5A4827DE-0141-4B44-A964-B27D64F8213C"
+    },
+    {
+      "class": "text",
+      "id": "1F003AB1-0C91-4406-80D7-E0DBC6E637B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "96E29CD9-9AE7-4124-A5D9-4D9BDB97496B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E7CA104-2EA5-488D-AC09-56C2AD0270BB"
     }
   ],
   "name": "Locum tenes",
