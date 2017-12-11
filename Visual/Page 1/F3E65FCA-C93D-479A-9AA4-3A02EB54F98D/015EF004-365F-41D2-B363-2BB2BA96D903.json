@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "015EF004-365F-41D2-B363-2BB2BA96D903",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 318,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 25,
+  "masterInfluenceEdgeMaxYPadding": 35,
+  "masterInfluenceEdgeMinXPadding": 25,
+  "masterInfluenceEdgeMinYPadding": 15,
+  "name": "Banana Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7EA120E5-3E9C-45CE-B944-D0E1FA271409",
+      "overrideName": "35B0ACD1-D17F-4F9C-8F92-CA46A5B74430_stringValue",
+      "value": "Great! "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "22FBFD04-94CD-4734-A0B4-CB2FD4F7F5DA",
+      "overrideName": "ABA04790-2DFE-4934-97CF-AD9EAEC58529_stringValue",
+      "value": "Now, let’s see what type of cases you could review!"
+    }
+  ],
+  "overrides": {
+    "35B0ACD1-D17F-4F9C-8F92-CA46A5B74430": "Great! ",
+    "ABA04790-2DFE-4934-97CF-AD9EAEC58529": "Now, let’s see what type of cases you could review!"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E53D6D84-555D-40E1-983B-C0437C4F6E19",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0BC24849-BE36-4742-9769-C802E43A893D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 68,
+    "width": 430,
+    "x": 57,
+    "y": 608
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Placeholder Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "38ABEF0B-E65E-4624-8B0B-110FC1457EE3_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E4C779B9-A886-41ED-AC38-63B7C8E1ED28/6D51CAC1-AC0C-4AFD-9FC2-67F36570C2DF_stringValue",
+      "value": "License number"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4A6D3AC1-0F79-418B-969B-3628141BA251/423854D6-CFD8-41EE-A2D8-D1F728B25DAF_stringValue",
+      "value": "123456"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8A6D0B7B-9F23-48F4-834B-07C28CD31EFB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E48C6B40-1893-485B-9859-860B778EC8AA",
+      "overrideName": "0B8168F4-BDB3-4135-A94C-BCFB573E7EAA_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "0B8168F4-BDB3-4135-A94C-BCFB573E7EAA": {
+      "symbolID": ""
+    },
+    "38ABEF0B-E65E-4624-8B0B-110FC1457EE3": {
+      "symbolID": ""
+    },
+    "4A6D3AC1-0F79-418B-969B-3628141BA251": {
+      "423854D6-CFD8-41EE-A2D8-D1F728B25DAF": "123456"
+    },
+    "8A6D0B7B-9F23-48F4-834B-07C28CD31EFB": {
+      "symbolID": ""
+    },
+    "E4C779B9-A886-41ED-AC38-63B7C8E1ED28": {
+      "6D51CAC1-AC0C-4AFD-9FC2-67F36570C2DF": "License number"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A6FE87D2-CABB-4873-B826-FC6E15233935",
+  "verticalSpacing": 0
+}

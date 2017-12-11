@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5D4EF8C0-C7E0-4C70-AEF0-C360237484D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 318,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 25,
+  "masterInfluenceEdgeMaxYPadding": 35,
+  "masterInfluenceEdgeMinXPadding": 25,
+  "masterInfluenceEdgeMinYPadding": 15,
+  "name": "Banana Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "35B0ACD1-D17F-4F9C-8F92-CA46A5B74430_stringValue",
+      "value": "Last one!"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ABA04790-2DFE-4934-97CF-AD9EAEC58529_stringValue",
+      "value": "We need your employment history! Where have you worked over the last 5 years?"
+    }
+  ],
+  "overrides": {
+    "35B0ACD1-D17F-4F9C-8F92-CA46A5B74430": "Last one!",
+    "ABA04790-2DFE-4934-97CF-AD9EAEC58529": "We need your employment history! Where have you worked over the last 5 years?"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E53D6D84-555D-40E1-983B-C0437C4F6E19",
+  "verticalSpacing": 0
+}
