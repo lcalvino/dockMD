@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 74,
+  "changeIdentifier": 77,
   "do_objectID": "13C323E9-4833-4A28-BB77-74C1A2114558",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,6 +54,7 @@
   ],
   "name": "Settings Copy",
   "nameIsFixed": false,
+  "originalObjectID": "13C323E9-4833-4A28-BB77-74C1A2114558",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

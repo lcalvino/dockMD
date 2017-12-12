@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 14,
+  "changeIdentifier": 21,
   "do_objectID": "7FC3374D-5D70-4E8A-83E4-4AA79B8B4AC3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -72
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,6 +54,7 @@
   ],
   "name": "Locum Tenes",
   "nameIsFixed": false,
+  "originalObjectID": "7FC3374D-5D70-4E8A-83E4-4AA79B8B4AC3",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

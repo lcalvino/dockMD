@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3874,
+  "changeIdentifier": 3903,
   "do_objectID": "0E8D6FBC-C150-4183-B2C9-ED87678D821A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -74,6 +74,7 @@
   ],
   "name": "Tab bar",
   "nameIsFixed": false,
+  "originalObjectID": "0E8D6FBC-C150-4183-B2C9-ED87678D821A",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

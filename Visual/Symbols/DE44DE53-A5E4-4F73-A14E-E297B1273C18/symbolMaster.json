@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9,
+  "changeIdentifier": 12,
   "do_objectID": "DE44DE53-A5E4-4F73-A14E-E297B1273C18",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -72
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,6 +54,7 @@
   ],
   "name": "Training",
   "nameIsFixed": false,
+  "originalObjectID": "DE44DE53-A5E4-4F73-A14E-E297B1273C18",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
