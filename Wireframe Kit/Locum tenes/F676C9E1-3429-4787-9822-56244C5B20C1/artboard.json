@@ -42,10 +42,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "F7D270F9-ABB0-4A7F-B937-9D5EA055DE55"
-    },
-    {
       "class": "group",
       "id": "D6D90227-EEFB-432F-A448-9AE547EA8FAC"
     },
@@ -95,11 +91,7 @@
     },
     {
       "class": "group",
-      "id": "E176E78D-674D-42A6-9856-EE4858951D59"
-    },
-    {
-      "class": "group",
-      "id": "91AFC0C3-ECE3-427D-AAC7-821E40DA1531"
+      "id": "A4D4E600-8EE8-4BDE-B1D6-B8C9729742AB"
     }
   ],
   "name": "Locum tenes questionary-Calendar",

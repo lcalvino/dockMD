@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1841,
+    "height": 1765,
     "width": 1024,
-    "x": -2217,
-    "y": -756
+    "x": -2300,
+    "y": -771
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -72,10 +72,6 @@
     {
       "class": "group",
       "id": "45D846FF-3851-4BCF-B899-37DA07F28D77"
-    },
-    {
-      "class": "group",
-      "id": "A41DDABB-B5D4-4811-B0BE-452DD41C25DF"
     }
   ],
   "name": "Locum tenes",

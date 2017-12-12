@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F4801D68-D4A0-41E6-B61B-A723CC7B1F0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 106,
+    "width": 118,
+    "x": 583.6330645161293,
+    "y": 315
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Calendar/date-available-to-work",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "443A5CC6-0B3E-4277-BBD3-CF2CCC809375_stringValue",
+      "value": "27"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8C21D41B-D2DE-4BEF-9B09-751D9A053B74_stringValue",
+      "value": "Weill Cornell"
+    }
+  ],
+  "overrides": {
+    "443A5CC6-0B3E-4277-BBD3-CF2CCC809375": "27",
+    "8C21D41B-D2DE-4BEF-9B09-751D9A053B74": "Weill Cornell"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "276EF294-61F9-4F52-BCCC-3C04F7DE96C1",
+  "verticalSpacing": 0
+}

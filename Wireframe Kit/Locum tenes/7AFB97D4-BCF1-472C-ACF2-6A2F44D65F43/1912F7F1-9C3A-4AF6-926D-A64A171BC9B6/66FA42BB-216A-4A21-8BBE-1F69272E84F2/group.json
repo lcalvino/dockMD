@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "66FA42BB-216A-4A21-8BBE-1F69272E84F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 834,
+    "x": 97,
+    "y": 35
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "05F99665-7A7E-460E-BE2A-95D55169F95D"
+    },
+    {
+      "class": "group",
+      "id": "38B17B0A-8363-4629-830B-08089C4397E5"
+    },
+    {
+      "class": "group",
+      "id": "F115F0F5-FBE1-4F7B-84FA-3BEAA665B980"
+    },
+    {
+      "class": "group",
+      "id": "A4F56C3E-06DC-4FB8-801B-1DF8074A92A6"
+    }
+  ],
+  "name": "Calendar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

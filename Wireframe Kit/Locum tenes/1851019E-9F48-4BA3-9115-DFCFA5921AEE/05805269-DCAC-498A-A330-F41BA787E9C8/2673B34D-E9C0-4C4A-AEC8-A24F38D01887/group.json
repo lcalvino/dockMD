@@ -16,7 +16,7 @@
     "height": 310,
     "width": 896,
     "x": 0,
-    "y": 75
+    "y": 77
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -40,6 +40,10 @@
     {
       "class": "group",
       "id": "4A46752E-A0FC-4BCF-ABDF-16B2C9330F69"
+    },
+    {
+      "class": "group",
+      "id": "EFF04799-8B75-49B9-8BFE-64436D9D98BA"
     }
   ],
   "name": "Group 4",

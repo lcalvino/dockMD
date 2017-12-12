@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 1366,
     "width": 1024,
-    "x": -3684,
-    "y": 1566
+    "x": -2300,
+    "y": 1345
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,10 +50,6 @@
     {
       "class": "group",
       "id": "12A4AD61-01B5-44D7-BAEF-1B79AD7A01B0"
-    },
-    {
-      "class": "group",
-      "id": "C2378CBE-A6C7-437F-AADA-6698F0EADF1D"
     },
     {
       "class": "group",
@@ -186,9 +182,13 @@
     {
       "class": "text",
       "id": "8B9375DB-DF2E-4651-B130-7DCD875640E8"
+    },
+    {
+      "class": "group",
+      "id": "C2378CBE-A6C7-437F-AADA-6698F0EADF1D"
     }
   ],
-  "name": "Locum tenes questionary-Map results",
+  "name": "Locum tenes-Mapview results",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
