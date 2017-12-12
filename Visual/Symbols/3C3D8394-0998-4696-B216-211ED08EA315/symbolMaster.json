@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 215,
+  "changeIdentifier": 227,
   "do_objectID": "3C3D8394-0998-4696-B216-211ED08EA315",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "Segmented Control 3",
   "nameIsFixed": false,
+  "originalObjectID": "3C3D8394-0998-4696-B216-211ED08EA315",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -16,7 +16,7 @@
     "height": 29,
     "width": 406,
     "x": 309,
-    "y": 72
+    "y": 39
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Segmented Control 3",
   "nameIsFixed": false,
+  "originalObjectID": "3C3D8394-0998-4696-B216-211ED08EA315",
   "overrideValues": [
     {
       "_class": "overrideValue",

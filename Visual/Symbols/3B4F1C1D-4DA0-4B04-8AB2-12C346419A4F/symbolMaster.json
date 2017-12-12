@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 39,
+  "changeIdentifier": 42,
   "do_objectID": "3B4F1C1D-4DA0-4B04-8AB2-12C346419A4F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,6 +54,7 @@
   ],
   "name": "Notifications Copy",
   "nameIsFixed": false,
+  "originalObjectID": "3B4F1C1D-4DA0-4B04-8AB2-12C346419A4F",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
