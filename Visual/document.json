@@ -77,16 +77,20 @@
   "meta": {
     "appVersion": "48.1",
     "build": 47250,
-    "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
+    "commit": "5b9531439a15a8e8d2e29be292655447768783db",
     "version": 97
   },
   "pages": [
     "Page 1",
+    "Landing",
     "Research",
     "Symbols",
     "Process"
   ],
   "userInfo": {
+    "com.invisionlabs.getty0": {
+      "ids": "[{\"id\":\"638647102\",\"layerId\":\"2B4DFFDF-E259-4ECC-B1FB-8F1080E6A82D\"},{\"id\":\"638647102\",\"layerId\":\"6569D4F8-C716-4A1A-8441-D19772837935\"},{\"id\":\"638647194\",\"layerId\":\"F37060B5-1B55-4457-BC90-096525B008AF\"}]"
+    },
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
     }

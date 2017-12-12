@@ -1,0 +1,133 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "9C189578-B770-42B6-8C54-28C5564E5D99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1366,
+    "width": 1024,
+    "x": -293,
+    "y": -815
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7613B83C-E2E7-4091-AA62-AE0D4D01F85F"
+    },
+    {
+      "class": "bitmap",
+      "id": "6569D4F8-C716-4A1A-8441-D19772837935"
+    },
+    {
+      "class": "bitmap",
+      "id": "F37060B5-1B55-4457-BC90-096525B008AF"
+    },
+    {
+      "class": "bitmap",
+      "id": "BFC57C00-7AD3-4AA5-8786-C4A425FA76D0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A61D0D14-9596-4EDF-B579-AC3FA573249B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB928DE1-7635-495D-8B11-894F5E9AB846"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67F99C62-3662-4B8D-A644-BCDE7F08955B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "535F588F-1432-4D1D-92F1-57CDFB1DB140"
+    },
+    {
+      "class": "group",
+      "id": "F1213789-C918-471D-9EAD-524A41FC2E28"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78.33333333333333,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 7,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1024
+  },
+  "name": "Landing",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
