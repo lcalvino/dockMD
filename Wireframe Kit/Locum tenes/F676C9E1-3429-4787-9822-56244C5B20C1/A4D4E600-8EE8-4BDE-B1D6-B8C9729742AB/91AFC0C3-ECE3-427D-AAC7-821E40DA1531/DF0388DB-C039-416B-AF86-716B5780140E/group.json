@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 45,
-    "width": 200,
-    "x": 626,
+    "width": 299,
+    "x": 527,
     "y": 0
   },
   "hasClickThrough": false,
@@ -32,6 +32,10 @@
     {
       "class": "group",
       "id": "67BEDE4C-2C2E-4060-A304-3C14F8072EF9"
+    },
+    {
+      "class": "group",
+      "id": "0AE4DA63-BCF9-4335-9910-2B7480802AE4"
     }
   ],
   "name": "Group 3",

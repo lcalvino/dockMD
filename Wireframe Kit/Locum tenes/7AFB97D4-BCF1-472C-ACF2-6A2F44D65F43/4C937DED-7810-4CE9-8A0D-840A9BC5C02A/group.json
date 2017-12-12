@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "AB2AA142-84D2-4159-B85D-4A1BD0B5E9E3",
+  "do_objectID": "4C937DED-7810-4CE9-8A0D-840A9BC5C02A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 45,
-    "width": 100,
-    "x": 100,
-    "y": 0
+    "width": 299,
+    "x": 624,
+    "y": 417
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,16 +26,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "BF914484-7AB0-473C-B22D-E64FB056558C"
+      "class": "group",
+      "id": "5FEA2E92-7869-42A1-8708-0C1A2C2C3772"
     },
     {
-      "class": "text",
-      "id": "A5F6E817-4381-481C-B55C-F2C76E13DA48"
+      "class": "group",
+      "id": "AEF1A9B8-BC84-4F7F-966E-2D5278313E2C"
+    },
+    {
+      "class": "group",
+      "id": "470AEA87-B302-4D24-9C15-EBB5B454A3BA"
     }
   ],
-  "name": "week",
-  "nameIsFixed": true,
+  "name": "Group 3",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

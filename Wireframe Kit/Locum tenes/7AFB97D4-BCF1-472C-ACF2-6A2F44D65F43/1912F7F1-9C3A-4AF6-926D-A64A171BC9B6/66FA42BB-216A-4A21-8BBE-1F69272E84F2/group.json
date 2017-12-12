@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
+    "height": 661,
     "width": 834,
     "x": 97,
-    "y": 35
+    "y": 41
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -36,10 +36,6 @@
     {
       "class": "group",
       "id": "F115F0F5-FBE1-4F7B-84FA-3BEAA665B980"
-    },
-    {
-      "class": "group",
-      "id": "A4F56C3E-06DC-4FB8-801B-1DF8074A92A6"
     }
   ],
   "name": "Calendar",
