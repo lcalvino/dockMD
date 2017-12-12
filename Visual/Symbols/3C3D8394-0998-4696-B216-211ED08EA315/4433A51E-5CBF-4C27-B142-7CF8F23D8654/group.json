@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "4433A51E-5CBF-4C27-B142-7CF8F23D8654",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 406,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D2597A1E-75EB-4487-8F68-DCEB74B70BCD"
+    },
+    {
+      "class": "group",
+      "id": "4C7AB25C-EFC3-4906-96A7-EE17DB2D68A9"
+    },
+    {
+      "class": "group",
+      "id": "9CF9129D-F642-4D41-B511-247D65FF1EBC"
+    },
+    {
+      "class": "group",
+      "id": "266D8481-1DE6-435D-9517-B934323C0A99"
+    }
+  ],
+  "name": "Segmented Control 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

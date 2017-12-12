@@ -66,6 +66,10 @@
     },
     {
       "class": "artboard",
+      "id": "F5B06288-1852-47C1-B529-635AFF2F415E"
+    },
+    {
+      "class": "artboard",
       "id": "674536D7-E173-48F8-AECE-519D18357D85"
     },
     {
@@ -79,6 +83,14 @@
     {
       "class": "artboard",
       "id": "C5AC3FFF-C2C7-4007-A024-F392C2F40D49"
+    },
+    {
+      "class": "artboard",
+      "id": "27A8E723-C4BA-4A2C-B15F-D7779E5BC3B4"
+    },
+    {
+      "class": "artboard",
+      "id": "C3B9A32E-8CED-4920-A891-09222576A521"
     }
   ],
   "name": "Page 1",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 278,
+  "changeIdentifier": 284,
   "do_objectID": "F151688A-D8CD-4662-98E3-EA00E95E0175",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 20
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,6 +58,7 @@
   ],
   "name": "Questionnaire.More",
   "nameIsFixed": true,
+  "originalObjectID": "F151688A-D8CD-4662-98E3-EA00E95E0175",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

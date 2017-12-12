@@ -30,9 +30,28 @@
   "masterInfluenceEdgeMinYPadding": 15,
   "name": "Fragmented banana",
   "nameIsFixed": false,
+  "originalObjectID": "ADDE1F8C-8268-407E-9654-FFAA04DF7D26",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83C5D64D-FD63-4053-A098-94E97FDD7BE3",
+      "overrideName": "E1C84FFD-DECA-433E-B70C-B23F8D4A70B6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41444442-8A23-4323-8D01-B2CED659AA09",
+      "overrideName": "9D021CDC-0CCF-422A-9089-26C27485F686_symbolID",
+      "value": ""
+    }
   ],
   "overrides": {
+    "9D021CDC-0CCF-422A-9089-26C27485F686": {
+      "symbolID": ""
+    },
+    "E1C84FFD-DECA-433E-B70C-B23F8D4A70B6": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

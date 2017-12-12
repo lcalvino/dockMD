@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 147,
+    "height": 172,
     "width": 954,
     "x": 35,
     "y": 536
@@ -30,15 +30,17 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Questionnaire Copy 9",
   "nameIsFixed": false,
+  "originalObjectID": "EBB41963-7262-4F67-89B4-E9D386A4BB17",
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "6E43EA27-AC28-4F25-A0A5-81FFC832EEE8_stringValue",
+      "do_objectID": "0004D9A3-6862-4FF5-8F0D-6F57A2061FA1",
+      "overrideName": "1A6FB881-8F5E-40B9-BF14-17D1B81F57B7_stringValue",
       "value": "Are the limitations or impairments caused by your medical condition reduced or ameliorated because of the field of practice, the setting or the manner in which you have chosen to practice?"
     }
   ],
   "overrides": {
-    "6E43EA27-AC28-4F25-A0A5-81FFC832EEE8": "Are the limitations or impairments caused by your medical condition reduced or ameliorated because of the field of practice, the setting or the manner in which you have chosen to practice?"
+    "1A6FB881-8F5E-40B9-BF14-17D1B81F57B7": "Are the limitations or impairments caused by your medical condition reduced or ameliorated because of the field of practice, the setting or the manner in which you have chosen to practice?"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -51,6 +53,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "68CDB5F8-7A44-4703-9CFD-30358F19CB8C",
+  "symbolID": "42560213-8AA9-4EB5-91C3-DA685671AE78",
   "verticalSpacing": 0
 }

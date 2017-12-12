@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A3BCFC4D-44CE-4D82-A215-C90AF9311401",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 291,
+    "x": 325,
+    "y": 523
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "Popover",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "47256DDE-673D-4C34-8B1E-D74D80876B7C",
+      "overrideName": "420213CE-D4E6-4793-8980-CF1F52D70A78_stringValue",
+      "value": "12 April 2016"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A96762A-C1F1-486D-9D83-8E0F8E870A1C",
+      "overrideName": "943EF870-0ABB-45AA-8455-022FF831BEE9_stringValue",
+      "value": "Earnings: $2000"
+    }
+  ],
+  "overrides": {
+    "420213CE-D4E6-4793-8980-CF1F52D70A78": "12 April 2016",
+    "943EF870-0ABB-45AA-8455-022FF831BEE9": "Earnings: $2000"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "64F68C34-FB81-4658-91B7-0517AC20C54A",
+  "verticalSpacing": 0
+}

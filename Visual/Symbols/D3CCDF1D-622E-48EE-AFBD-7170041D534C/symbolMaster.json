@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1,
+  "changeIdentifier": 3,
   "do_objectID": "D3CCDF1D-622E-48EE-AFBD-7170041D534C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "Here",
   "nameIsFixed": false,
+  "originalObjectID": "D3CCDF1D-622E-48EE-AFBD-7170041D534C",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
