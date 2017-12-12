@@ -82,10 +82,9 @@
   },
   "pages": [
     "Landing",
-    "Page 1",
+    "Onboarding",
     "Research",
-    "Symbols",
-    "Process"
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
