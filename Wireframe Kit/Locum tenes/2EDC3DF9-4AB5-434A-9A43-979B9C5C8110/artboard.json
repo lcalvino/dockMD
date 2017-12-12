@@ -1,0 +1,227 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9411764705882353,
+    "green": 0.9411764705882353,
+    "red": 0.9411764705882353
+  },
+  "do_objectID": "2EDC3DF9-4AB5-434A-9A43-979B9C5C8110",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1366,
+    "width": 1024,
+    "x": 2862,
+    "y": -729
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "893498A2-B36E-434A-A15A-5ABEF0AB5C63"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2CC3E8E9-84E7-4032-A43D-8A88FF96C988"
+    },
+    {
+      "class": "text",
+      "id": "BD81401D-45E3-4EF8-A248-CF8AD5566809"
+    },
+    {
+      "class": "text",
+      "id": "B5E0A3F1-7353-4DFF-AD66-99C019F0C560"
+    },
+    {
+      "class": "group",
+      "id": "232CF02D-CB79-4F2C-BE2A-1DF8CA56C894"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28EBFF46-32E3-4180-A38C-E4D1337D50B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73DA8EE1-F10F-4EF3-B549-1E1CD7BD2AAD"
+    },
+    {
+      "class": "text",
+      "id": "A63A9AFF-D1A2-4BD0-A327-51820FF13AEC"
+    },
+    {
+      "class": "text",
+      "id": "970EAF81-85DE-4398-AE2F-23D2F56EDDDF"
+    },
+    {
+      "class": "group",
+      "id": "C6284BC6-76D0-4274-8461-34A7AEA6418A"
+    },
+    {
+      "class": "text",
+      "id": "F0F20F6E-45B6-4169-A80E-6C9F1EB16B7E"
+    },
+    {
+      "class": "text",
+      "id": "18575FCA-3D9A-4819-ACC4-419A1F8A9209"
+    },
+    {
+      "class": "text",
+      "id": "17E705A7-B8DD-45DF-819F-39516319814F"
+    },
+    {
+      "class": "text",
+      "id": "C3484599-313B-4749-AA51-7FC405F45882"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9D09B87-A6F8-48CC-820C-DA65574A5BA5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1B2A078D-F82F-4822-8246-FB676A8737AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F96FA697-E8FD-4E1D-890D-3D3C48414310"
+    },
+    {
+      "class": "text",
+      "id": "BF0BF764-6A02-4297-B460-A86AF020F714"
+    },
+    {
+      "class": "text",
+      "id": "40B3130F-CC87-40E8-AAE0-AAD06B9E7F84"
+    },
+    {
+      "class": "group",
+      "id": "612800B7-85A3-4047-AEF1-F739FDE25167"
+    },
+    {
+      "class": "group",
+      "id": "8DBCA16E-D93B-49F5-8B09-460F0551C074"
+    },
+    {
+      "class": "text",
+      "id": "F44719AA-A807-4089-B0FC-45AB1055EDC7"
+    },
+    {
+      "class": "group",
+      "id": "28028D20-70AA-4392-9565-F33B4F50E199"
+    },
+    {
+      "class": "text",
+      "id": "C921FB2C-39CA-475D-8DA8-877D430123DE"
+    },
+    {
+      "class": "group",
+      "id": "745554F7-7CF8-4E3B-BA08-12AFB35DB409"
+    },
+    {
+      "class": "text",
+      "id": "B35BD227-B747-4A5A-8E7B-0AD889444E78"
+    },
+    {
+      "class": "group",
+      "id": "9BA22AC4-CAAE-4945-81D0-9ABF7E121CF1"
+    },
+    {
+      "class": "group",
+      "id": "D133C7D8-57E7-43A7-8592-2BDDCD71369B"
+    },
+    {
+      "class": "text",
+      "id": "C8938530-A13B-4EB0-9A25-7DA8B5FB3F1C"
+    },
+    {
+      "class": "text",
+      "id": "53E64569-5625-40A1-8D1D-9441C6591120"
+    },
+    {
+      "class": "group",
+      "id": "8E3B5C9D-D08C-4FB8-BB16-64C0EE5906FA"
+    },
+    {
+      "class": "text",
+      "id": "E28095AA-DE89-49F6-8A2A-C92D7CBB318A"
+    },
+    {
+      "class": "group",
+      "id": "85F5AC2D-10FA-4A93-845C-5F5E86C9B27F"
+    },
+    {
+      "class": "group",
+      "id": "3F0888DA-DFBD-4B27-A9F5-60372B4A6392"
+    }
+  ],
+  "name": "Locum-tenes-detail Copy 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

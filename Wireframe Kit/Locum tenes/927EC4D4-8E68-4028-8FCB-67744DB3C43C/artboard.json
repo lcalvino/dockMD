@@ -1,0 +1,178 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9411764705882353,
+    "green": 0.9411764705882353,
+    "red": 0.9411764705882353
+  },
+  "do_objectID": "927EC4D4-8E68-4028-8FCB-67744DB3C43C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1366,
+    "width": 1024,
+    "x": 14560,
+    "y": -743
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "16DDA8B2-11A8-48CD-84E8-1215CBAE20A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A0891081-86E6-4B54-B05A-3FF2F9B898A9"
+    },
+    {
+      "class": "text",
+      "id": "05FF82DD-F030-49F2-911A-992B97C56CC9"
+    },
+    {
+      "class": "text",
+      "id": "2781CAB9-18F6-465E-AB9B-5EB3562C9FE9"
+    },
+    {
+      "class": "group",
+      "id": "4CC2FA4B-9999-4F90-8A5A-450A27254FD1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9873D712-606C-4FFB-B132-0812DCB80B55"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D768901-9FBB-4E53-9790-175A3A374ACA"
+    },
+    {
+      "class": "text",
+      "id": "C89BEC40-2BC4-4861-86C4-9F91E05C8938"
+    },
+    {
+      "class": "text",
+      "id": "C3279F4B-C59B-4ECB-8AB2-4A6CD9438013"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4BA16F3D-B1FD-4552-91C1-4872A900B0B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B14F5CC2-7B23-40D4-8E5B-4A43CB63239A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79E98779-BF74-4E76-AD2F-07020661C804"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27DF17CC-28A6-4712-9428-30C86434C0D6"
+    },
+    {
+      "class": "group",
+      "id": "95D55A37-29F3-488B-926B-4AB4BD818441"
+    },
+    {
+      "class": "group",
+      "id": "EE28ACDC-BDA4-4B33-A09B-EFBF6156F3BC"
+    },
+    {
+      "class": "group",
+      "id": "D15B8B3F-92B8-489A-A10E-26C3F9777390"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A329CB77-A400-4937-A5B0-D8CB8FD435A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAFEBD65-2969-48D7-801A-5AD31A7735A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D16D3EF-F3A1-4CB8-A9BA-B1EE805C596D"
+    },
+    {
+      "class": "text",
+      "id": "C88594DE-B400-4068-8FE1-424B54EF8466"
+    },
+    {
+      "class": "text",
+      "id": "9F2082D6-1871-4B9C-8B03-210D316FC579"
+    },
+    {
+      "class": "group",
+      "id": "00EE144D-FA64-45DB-B613-48C02E8A1D1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C206F385-1859-4289-ACB5-C763F378401B"
+    },
+    {
+      "class": "group",
+      "id": "C2579C1C-F9E1-4945-82A3-8E5150CE0344"
+    }
+  ],
+  "name": "Locum tenes-travel logistics",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

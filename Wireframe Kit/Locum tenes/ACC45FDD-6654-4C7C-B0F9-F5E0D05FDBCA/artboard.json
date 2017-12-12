@@ -1,0 +1,143 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9411764705882353,
+    "green": 0.9411764705882353,
+    "red": 0.9411764705882353
+  },
+  "do_objectID": "ACC45FDD-6654-4C7C-B0F9-F5E0D05FDBCA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1366,
+    "width": 1024,
+    "x": -5233,
+    "y": -747
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CCED82A5-4915-4D75-8863-586806D2D7E3"
+    },
+    {
+      "class": "group",
+      "id": "79298045-26D9-45AB-B97A-AEDC8E0A039B"
+    },
+    {
+      "class": "text",
+      "id": "CAE68467-B2B1-4B57-991C-D4428F84020F"
+    },
+    {
+      "class": "group",
+      "id": "12FAE88B-C464-465D-918A-CE1FD7B01776"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C3C9D63-1728-4AE9-A8D6-D25955F6A6E1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DAB6DDAB-0AD8-4D87-B906-EDD9C0434D50"
+    },
+    {
+      "class": "text",
+      "id": "505D5B93-52DE-46FD-ACB8-943BD9AA6191"
+    },
+    {
+      "class": "text",
+      "id": "24C0EFA3-CAD7-4B3C-BA50-6192B6A7E1B7"
+    },
+    {
+      "class": "group",
+      "id": "B4B79E4E-9569-4A54-9B3B-6FB58F612A59"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2ADB006A-8B7A-4B6F-9AA3-BB61259853FE"
+    },
+    {
+      "class": "text",
+      "id": "7D2EB4A6-B9CB-4330-8796-337EF5A9C5DA"
+    },
+    {
+      "class": "text",
+      "id": "B0DDB8C0-41CE-4D5D-88F2-6DA7C1B8E9EA"
+    },
+    {
+      "class": "group",
+      "id": "108FEB67-0BDA-400D-9A71-86BF9307EB66"
+    }
+  ],
+  "name": "Locum tenes questionary-Calendar",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

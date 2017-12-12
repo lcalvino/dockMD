@@ -1,0 +1,135 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9411764705882353,
+    "green": 0.9411764705882353,
+    "red": 0.9411764705882353
+  },
+  "do_objectID": "E98845D9-07D5-4848-B468-5BBEADE5DC93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1366,
+    "width": 1024,
+    "x": 9799,
+    "y": -731
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D359CE95-51CC-4A8B-8979-5D32CABD1140"
+    },
+    {
+      "class": "group",
+      "id": "7C1364B5-21CD-40E9-8C29-746C9B234ABD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE18C960-EE7C-45D7-AAE5-47599ADA6EB1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "78C03F4A-7FCC-4BFD-B380-2F65D7710EEE"
+    },
+    {
+      "class": "text",
+      "id": "0A99950F-A175-4D46-B6BB-8D1C7EEFA6CC"
+    },
+    {
+      "class": "text",
+      "id": "6E9743B0-7BE8-4BAE-A24F-8DFFADF42759"
+    },
+    {
+      "class": "group",
+      "id": "30E2FE37-42BD-45DC-855F-BF9B4C026300"
+    },
+    {
+      "class": "group",
+      "id": "E55FBE03-4778-43EE-8668-1DA112FEF00D"
+    },
+    {
+      "class": "group",
+      "id": "C43C3B1C-F2D4-4AF6-8947-50F780791AAC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "04C1BC39-2E03-4A99-A622-C660BAF26E2A"
+    },
+    {
+      "class": "group",
+      "id": "3F2E86FA-299F-4725-AE42-B4ABE0A8B8A2"
+    }
+  ],
+  "name": "Locum tenes-Calendar_event detail",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

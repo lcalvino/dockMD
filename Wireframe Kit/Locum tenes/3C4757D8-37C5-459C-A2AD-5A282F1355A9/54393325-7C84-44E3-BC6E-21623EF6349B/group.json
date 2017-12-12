@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "54393325-7C84-44E3-BC6E-21623EF6349B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 120,
+    "x": 715,
+    "y": 858
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8C52A90B-73D9-4CFA-8249-3C835829A9C4"
+    },
+    {
+      "class": "text",
+      "id": "944DB6F7-33B1-453C-B1B6-55EF306BEB5B"
+    }
+  ],
+  "name": "Button Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
