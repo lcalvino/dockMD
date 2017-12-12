@@ -40,7 +40,28 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "DDBC1C38-02D3-46BE-A04B-16B10BA2DB89"
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0,
+          "green": 0,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
   },
   "windingRule": 1
 }
