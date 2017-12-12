@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 2097,
     "width": 1024,
-    "x": -7059,
-    "y": 1846
+    "x": 4146,
+    "y": -1239
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -106,6 +106,10 @@
       "id": "C07506CA-D959-45F4-8664-9D5B9F213C02"
     },
     {
+      "class": "symbolInstance",
+      "id": "D649D7A8-C239-4114-81B5-783D06105EE5"
+    },
+    {
       "class": "text",
       "id": "7B3F53B6-E875-4A3A-9024-06550AEDCFE0"
     },
@@ -124,10 +128,6 @@
     {
       "class": "text",
       "id": "C1239F7C-BE75-4EC2-AB3B-EA625CA1C380"
-    },
-    {
-      "class": "group",
-      "id": "43D99DB6-7DCA-459C-8753-E59E484B9AEF"
     },
     {
       "class": "shapeGroup",
@@ -196,6 +196,22 @@
     {
       "class": "shapeGroup",
       "id": "45FDDFC3-C780-49E5-8F5A-1F831C6E45E9"
+    },
+    {
+      "class": "text",
+      "id": "D4399D23-5E34-443E-93CF-F786A99AEE8F"
+    },
+    {
+      "class": "text",
+      "id": "4DC8ABDF-4D7B-4C80-935C-34CE1D4F0DD5"
+    },
+    {
+      "class": "text",
+      "id": "A521BCE8-8E10-43EB-A0EA-B11CC454C6E2"
+    },
+    {
+      "class": "text",
+      "id": "A68A4BE1-7DE7-4D28-834F-199BD1611822"
     }
   ],
   "name": "Tutorials",

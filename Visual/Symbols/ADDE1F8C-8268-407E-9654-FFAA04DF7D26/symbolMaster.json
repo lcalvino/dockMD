@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 11,
+  "changeIdentifier": 162,
   "do_objectID": "ADDE1F8C-8268-407E-9654-FFAA04DF7D26",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,8 +48,16 @@
       "id": "4D819391-404B-4B0B-BCEB-816EF7DCE167"
     },
     {
-      "class": "text",
-      "id": "13230952-E802-4850-A517-2CF4FC42A436"
+      "class": "symbolInstance",
+      "id": "26A80D20-D727-4166-9C56-E72D73458614"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1C84FFD-DECA-433E-B70C-B23F8D4A70B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D021CDC-0CCF-422A-9089-26C27485F686"
     }
   ],
   "name": "Fragmented banana",
