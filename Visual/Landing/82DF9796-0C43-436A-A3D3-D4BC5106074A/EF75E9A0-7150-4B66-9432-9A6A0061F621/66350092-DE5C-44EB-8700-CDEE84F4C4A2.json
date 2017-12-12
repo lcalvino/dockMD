@@ -55,6 +55,24 @@
       "_class": "overrideValue",
       "overrideName": "4C439EBA-57DD-4365-9C4C-6BE49779E9B9/66A1F279-4266-4961-8350-F7B9ECDBEB21_stringValue",
       "value": "HIDE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5861AC25-E254-4916-8CE8-5F235A6FF4AB",
+      "overrideName": "E3AB1545-8993-4BE4-AB1E-35E7057C9E17/B64B267C-6E37-4525-B5DC-51AA829D33DD_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2AB1AB4-DF44-4F7F-9617-435D5EF80D12",
+      "overrideName": "BDFBF413-0A12-4EB7-AC9B-BDFDE7736AAF/DD189FC2-E946-4D91-BC7C-287E18066AA2_stringValue",
+      "value": "**********"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "45474BA2-63B4-4611-B31A-4260200C2202",
+      "overrideName": "688F07B9-135A-4080-A947-19070453004F/66A1F279-4266-4961-8350-F7B9ECDBEB21_stringValue",
+      "value": "SHOW"
     }
   ],
   "overrides": {
@@ -64,14 +82,23 @@
     "4C439EBA-57DD-4365-9C4C-6BE49779E9B9": {
       "66A1F279-4266-4961-8350-F7B9ECDBEB21": "HIDE"
     },
+    "688F07B9-135A-4080-A947-19070453004F": {
+      "66A1F279-4266-4961-8350-F7B9ECDBEB21": "SHOW"
+    },
     "8A6D0B7B-9F23-48F4-834B-07C28CD31EFB": {
       "symbolID": ""
     },
     "A11210BC-12CE-4E96-BD12-227253EB8032": {
       "423854D6-CFD8-41EE-A2D8-D1F728B25DAF": "tYqwer9594"
     },
+    "BDFBF413-0A12-4EB7-AC9B-BDFDE7736AAF": {
+      "DD189FC2-E946-4D91-BC7C-287E18066AA2": "**********"
+    },
     "D7032976-209B-4F26-91C8-E2918FB58B52": {
       "6D51CAC1-AC0C-4AFD-9FC2-67F36570C2DF": "Password"
+    },
+    "E3AB1545-8993-4BE4-AB1E-35E7057C9E17": {
+      "B64B267C-6E37-4525-B5DC-51AA829D33DD": "Password"
     }
   },
   "resizingConstraint": 63,

@@ -16,7 +16,7 @@
     "height": 60,
     "width": 565,
     "x": 230,
-    "y": 616
+    "y": 763
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -36,10 +36,17 @@
       "do_objectID": "65E8CBEA-88F4-416F-AE41-A496B3AC0749",
       "overrideName": "8BD65D85-F840-4B0F-A2E7-79319AA95BAE_stringValue",
       "value": "SIGN IN"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1BFE16AD-AF7F-4EE5-B822-F64FD86B6100",
+      "overrideName": "97CEBE57-29B3-4885-B27E-2B0A863274F6_stringValue",
+      "value": "Sign In"
     }
   ],
   "overrides": {
-    "8BD65D85-F840-4B0F-A2E7-79319AA95BAE": "SIGN IN"
+    "8BD65D85-F840-4B0F-A2E7-79319AA95BAE": "SIGN IN",
+    "97CEBE57-29B3-4885-B27E-2B0A863274F6": "Sign In"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

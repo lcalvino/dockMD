@@ -16,7 +16,7 @@
     "height": 60,
     "width": 565,
     "x": 230,
-    "y": 691
+    "y": 838
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -36,10 +36,17 @@
       "do_objectID": "3541C3D4-11B7-4773-AA5D-9BEDE506F280",
       "overrideName": "7E25CCC3-1F8E-41A5-842A-28BEA661FF5C_stringValue",
       "value": "REGISTER"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1119A0E-2F22-41B6-A486-B9CBDB044BF9",
+      "overrideName": "C5ADFDD8-F563-4C30-A167-50F5219C4902_stringValue",
+      "value": "Register"
     }
   ],
   "overrides": {
-    "7E25CCC3-1F8E-41A5-842A-28BEA661FF5C": "REGISTER"
+    "7E25CCC3-1F8E-41A5-842A-28BEA661FF5C": "REGISTER",
+    "C5ADFDD8-F563-4C30-A167-50F5219C4902": "Register"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

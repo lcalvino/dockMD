@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 60,
     "width": 565,
-    "x": 42,
+    "x": 41,
     "y": 292
   },
   "horizontalSpacing": 0,
@@ -35,11 +35,11 @@
       "_class": "overrideValue",
       "do_objectID": "70EC2932-443F-427B-85BD-59681A420560",
       "overrideName": "4170090E-EBBD-41A1-9F1E-2D3EA45248C5_stringValue",
-      "value": "SIGN IN"
+      "value": "Sign In"
     }
   ],
   "overrides": {
-    "4170090E-EBBD-41A1-9F1E-2D3EA45248C5": "SIGN IN"
+    "4170090E-EBBD-41A1-9F1E-2D3EA45248C5": "Sign In"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
