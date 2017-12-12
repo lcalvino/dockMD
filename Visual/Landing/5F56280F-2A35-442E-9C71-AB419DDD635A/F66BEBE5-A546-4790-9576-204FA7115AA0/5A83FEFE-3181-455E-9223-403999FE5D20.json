@@ -34,11 +34,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "4170090E-EBBD-41A1-9F1E-2D3EA45248C5_stringValue",
-      "value": "CREATE PASSWORD"
+      "value": "Create password"
     }
   ],
   "overrides": {
-    "4170090E-EBBD-41A1-9F1E-2D3EA45248C5": "CREATE PASSWORD"
+    "4170090E-EBBD-41A1-9F1E-2D3EA45248C5": "Create password"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

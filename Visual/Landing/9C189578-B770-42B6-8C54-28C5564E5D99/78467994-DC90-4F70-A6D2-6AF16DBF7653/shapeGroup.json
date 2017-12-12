@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "7FF4A48C-9F6D-460D-850D-7D3FE4485C8B",
+  "do_objectID": "78467994-DC90-4F70-A6D2-6AF16DBF7653",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,22 +14,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1293,
+    "height": 1373,
     "width": 1024,
-    "x": -1,
-    "y": 73
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
-  "layerListExpandedType": 1,
+  "isVisible": true,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "C75DBC35-736B-4B4A-A88A-9B7B90A49FAB"
+      "id": "43D5F33C-426C-43D1-A200-ADB0F6D4D784"
     }
   ],
   "name": "Rectangle Copy 2",
@@ -63,15 +63,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 1,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.5, 0.098718227039626613}",
+          "from": "{0, 0}",
           "gradientType": 0,
           "shouldSmoothenOpacity": false,
           "stops": [
@@ -79,10 +79,10 @@
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 0,
-                "blue": 0.9333333333333333,
-                "green": 0.9333333333333333,
-                "red": 0.9333333333333333
+                "alpha": 1,
+                "blue": 0.9921568627450981,
+                "green": 0.403921568627451,
+                "red": 0.7921568627450981
               },
               "position": 0
             },
@@ -91,14 +91,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.5,
-                "green": 0.346,
-                "red": 0.115
+                "blue": 0.5019607843137255,
+                "green": 0.3450980392156863,
+                "red": 0.1137254901960784
               },
               "position": 1
             }
           ],
-          "to": "{0.5, 1}"
+          "to": "{1, 1}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
@@ -108,6 +108,28 @@
       }
     ],
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 25,
+        "color": {
+          "_class": "color",
+          "alpha": 0.25,
+          "blue": 0.9921568627450981,
+          "green": 0.403921568627451,
+          "red": 0.7921568627450981
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 10,
+        "spread": 0
+      }
+    ],
     "startDecorationType": 0
   },
   "windingRule": 1

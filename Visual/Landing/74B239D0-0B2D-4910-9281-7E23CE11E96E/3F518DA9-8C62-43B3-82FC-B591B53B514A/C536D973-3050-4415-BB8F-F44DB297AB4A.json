@@ -34,11 +34,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "4170090E-EBBD-41A1-9F1E-2D3EA45248C5_stringValue",
-      "value": "RESET YOUR PASSWORD"
+      "value": "Reset your password"
     }
   ],
   "overrides": {
-    "4170090E-EBBD-41A1-9F1E-2D3EA45248C5": "RESET YOUR PASSWORD"
+    "4170090E-EBBD-41A1-9F1E-2D3EA45248C5": "Reset your password"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
