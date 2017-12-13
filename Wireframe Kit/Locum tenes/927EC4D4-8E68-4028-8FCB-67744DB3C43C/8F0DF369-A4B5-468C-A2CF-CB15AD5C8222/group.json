@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "95D55A37-29F3-488B-926B-4AB4BD818441",
+  "do_objectID": "8F0DF369-A4B5-468C-A2CF-CB15AD5C8222",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 45,
-    "width": 160,
-    "x": 729,
-    "y": 1220
+    "width": 325,
+    "x": 187,
+    "y": 578
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,14 +27,14 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "2423476D-0A9D-4F20-AE67-6BB304DB7497"
+      "id": "896D868C-F09C-4385-A030-EA41A1BEB5DB"
     },
     {
       "class": "text",
-      "id": "CEA7786F-2BD7-4BC8-81A6-AEB6385C5DCF"
+      "id": "1E7D917B-F55B-4CE7-A6D1-F855CE0113C1"
     }
   ],
-  "name": "Delete",
+  "name": "Delete Copy 2",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
