@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 39,
-    "width": 41,
-    "x": 204,
-    "y": 813
+    "height": 26.63414634146341,
+    "width": 28,
+    "x": 264,
+    "y": 754
   },
   "image": {
     "_class": "MSJSONFileReference",

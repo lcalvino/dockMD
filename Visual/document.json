@@ -85,6 +85,38 @@
           }
         ],
         "to": "{1, 1}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0, 0}",
+        "gradientType": 0,
+        "shouldSmoothenOpacity": false,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0.5,
+              "blue": 0.6500053146258503,
+              "green": 0.6500053146258503,
+              "red": 0.6500053146258503
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0.6,
+              "blue": 0,
+              "green": 0,
+              "red": 0
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1, 0.97458669649375629}"
       }
     ],
     "imageCollection": {
@@ -109,7 +141,7 @@
   "meta": {
     "appVersion": "48.1",
     "build": 47250,
-    "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
+    "commit": "5b9531439a15a8e8d2e29be292655447768783db",
     "version": 97
   },
   "pages": [

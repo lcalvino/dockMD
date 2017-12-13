@@ -74,20 +74,40 @@
       "id": "2D9C696A-4AD6-4E11-BCA4-2DD034AAA286"
     },
     {
-      "class": "shapeGroup",
-      "id": "4C8EE4BF-4FA6-41E9-ADA9-9351C586BF9D"
+      "class": "text",
+      "id": "C8B3A487-D566-4667-AFFA-6123EB46A833"
+    },
+    {
+      "class": "text",
+      "id": "CBCC782A-85D4-4A1F-B602-7F3ECCB2276B"
     },
     {
       "class": "shapeGroup",
-      "id": "F6D96064-9B71-4569-B2D8-CDBA0B84BD19"
+      "id": "4C8EE4BF-4FA6-41E9-ADA9-9351C586BF9D"
     },
     {
       "class": "shapeGroup",
       "id": "596BECC2-B2BA-420E-A6F7-B20656960C83"
     },
     {
+      "class": "shapeGroup",
+      "id": "C844507F-8184-4103-B834-97227C7C8ADC"
+    },
+    {
       "class": "text",
-      "id": "C28A1030-E026-40E0-9C9F-74C57CF36BBE"
+      "id": "380BB3BC-3FA8-430A-A0D4-94B6ADE4FCB9"
+    },
+    {
+      "class": "text",
+      "id": "1CE2999C-3CC7-4506-BC12-6D714B812F75"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B7E6FE9-1729-4B55-9CC6-F5E96FA2721A"
+    },
+    {
+      "class": "text",
+      "id": "F15B1B2C-D62C-43E8-BFAD-5B260D20F968"
     },
     {
       "class": "shapeGroup",
@@ -123,11 +143,15 @@
     },
     {
       "class": "text",
-      "id": "293B1A29-6B12-4936-BB87-816871EC3CE6"
+      "id": "04CA90BA-DF82-4FED-8E97-058428BDADCC"
     },
     {
-      "class": "text",
-      "id": "C1239F7C-BE75-4EC2-AB3B-EA625CA1C380"
+      "class": "group",
+      "id": "DAC73A9D-B457-44B7-A0F2-09F40AF3305F"
+    },
+    {
+      "class": "group",
+      "id": "885BA1DC-7519-48D8-B127-E60D95E136AE"
     },
     {
       "class": "shapeGroup",
@@ -194,12 +218,12 @@
       "id": "46A02BB3-5F67-45AC-84F2-090BA8967F43"
     },
     {
-      "class": "shapeGroup",
-      "id": "45FDDFC3-C780-49E5-8F5A-1F831C6E45E9"
+      "class": "text",
+      "id": "D4399D23-5E34-443E-93CF-F786A99AEE8F"
     },
     {
       "class": "text",
-      "id": "D4399D23-5E34-443E-93CF-F786A99AEE8F"
+      "id": "485EA6B3-428C-46D3-81BA-79C7AC3FBDFB"
     },
     {
       "class": "text",
@@ -207,11 +231,15 @@
     },
     {
       "class": "text",
-      "id": "A521BCE8-8E10-43EB-A0EA-B11CC454C6E2"
+      "id": "46E20C8A-AFDF-4306-B538-C7292ED0ED41"
     },
     {
       "class": "text",
-      "id": "A68A4BE1-7DE7-4D28-834F-199BD1611822"
+      "id": "7982A57F-80BF-472B-80E6-540C2B2440B0"
+    },
+    {
+      "class": "group",
+      "id": "5829FAAE-1835-4B83-B97A-5AED7B5F3A74"
     }
   ],
   "name": "Tutorials",

@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 250,
+    "height": 280,
     "width": 280,
     "x": 35,
     "y": 218
@@ -70,7 +70,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/1e38927b39617617fda5f373af9079c3da2b55e7",
+          "_ref": "images/2c6caddb739de08a608e9d0093ca5fe8a40d110d",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -87,10 +87,10 @@
     "com.invisionlabs.duplicate": {
       "photos-duplicate": {
         "category": "Work",
-        "icon": "leaf",
-        "index": 2,
+        "icon": "boat",
+        "index": 5,
         "mode": "unsplash",
-        "title": "Works"
+        "title": "work"
       }
     }
   },
