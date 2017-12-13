@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17.40609741210938,
-    "width": 199.6271186440672,
+    "height": 17,
+    "width": 200,
     "x": 730,
-    "y": 852
+    "y": 803
   },
   "glyphBounds": "{{0, 3}, {43, 12}}",
   "heightIsClipped": false,

@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 173,
+    "height": 115,
     "width": 1024,
     "x": 0,
     "y": 0
@@ -24,8 +24,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 25,
-  "masterInfluenceEdgeMaxYPadding": 35,
+  "masterInfluenceEdgeMaxXPadding": 10245,
+  "masterInfluenceEdgeMaxYPadding": 192,
   "masterInfluenceEdgeMinXPadding": 25,
   "masterInfluenceEdgeMinYPadding": 15,
   "name": "Fragmented banana",
@@ -37,10 +37,28 @@
       "do_objectID": "36110F3E-7C1F-4BCF-9A07-1852BC8969A4",
       "overrideName": "26A80D20-D727-4166-9C56-E72D73458614_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "645D33FA-FF97-46EE-A42A-D4EF958E3D81",
+      "overrideName": "572F3865-972F-4988-8348-278397F859B6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B70A8DD6-5816-4224-8C4B-1E850395A0B9",
+      "overrideName": "E489976A-902E-443E-A534-67EDC17AACF1_symbolID",
+      "value": ""
     }
   ],
   "overrides": {
     "26A80D20-D727-4166-9C56-E72D73458614": {
+      "symbolID": ""
+    },
+    "572F3865-972F-4988-8348-278397F859B6": {
+      "symbolID": ""
+    },
+    "E489976A-902E-443E-A534-67EDC17AACF1": {
       "symbolID": ""
     }
   },
@@ -55,6 +73,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "E26BCA27-791E-4A2A-93EC-2182B7BE7581",
+  "symbolID": "F4AA4F82-8257-46B6-AE26-2B49DBE8C508",
   "verticalSpacing": 0
 }

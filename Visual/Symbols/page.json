@@ -58,11 +58,19 @@
     },
     {
       "class": "symbolMaster",
+      "id": "B6906C39-E837-4E15-959C-1962092F5A46"
+    },
+    {
+      "class": "symbolMaster",
       "id": "291D8336-1E7B-4B39-87C3-6C88D352E1D4"
     },
     {
       "class": "symbolMaster",
       "id": "AB2CC382-9184-458C-BDA2-A151FCB8D3EA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "48C858F5-AEE5-4CF1-AD3F-24883D7CF38F"
     },
     {
       "class": "symbolMaster",
@@ -114,6 +122,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "4091C370-FF21-439C-A771-9DEBC86D167E"
+    },
+    {
+      "class": "symbolMaster",
       "id": "0F118994-E909-4434-AEE7-46CF01150120"
     },
     {
@@ -147,10 +159,6 @@
     {
       "class": "symbolMaster",
       "id": "8D389E58-D1CD-485D-8090-67D00594FA2A"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "F90D22D2-74A8-453C-AD2E-F25FF4C5EE16"
     },
     {
       "class": "symbolMaster",
@@ -226,6 +234,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "5C4AB5CE-A9BF-496F-9C41-C56644900211"
+    },
+    {
+      "class": "symbolMaster",
       "id": "956F7665-6A82-479E-8012-E2001F40F88D"
     },
     {
@@ -259,6 +271,14 @@
     {
       "class": "symbolMaster",
       "id": "6DF3533B-F29B-4344-849B-0E8AA27CB112"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C89B2DDF-C73B-4289-AE59-BABFF1B7517F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0242D5F6-C0F3-4B7F-9613-05698C2B8418"
     }
   ],
   "name": "Symbols",

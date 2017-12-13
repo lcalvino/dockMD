@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 151,
+    "width": 156,
     "x": 365,
     "y": 1092
   },
@@ -24,7 +24,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 5,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,

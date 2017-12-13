@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 2913,
   "do_objectID": "B2CFB466-5151-40E2-891B-561500883869",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 18,
-    "x": 9781,
-    "y": -71
+    "height": 22,
+    "width": 22,
+    "x": 9779,
+    "y": -73
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,8 +44,52 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "A8F267C6-4496-4F70-AD9B-29B0F3C90B1B"
+      "class": "shapeGroup",
+      "id": "AABEF1E8-9716-4752-8FE4-A44DB16FA41F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "419232B1-9674-4DA3-8A25-FFC7C4F79947"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1470CEF6-1ABD-47C6-BAD4-E10DCBA50570"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "573FB366-8A6F-41DF-B39B-D3663F36E653"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EEDA2509-AEC0-4028-8E7B-34964D35F44C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "951254CA-3A88-4A06-BC1A-0272F84DA8A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3AE712DB-32CB-4761-8F8D-B35BEDDA4691"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E32BC5B9-35AF-47FF-81C2-8C890AE4C02A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B5495B5C-11CC-453F-AEC1-3E8D7F23DAF6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5AC30FA6-ABD9-42B9-AAA4-81EF43C7BFF4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16FDDE24-7917-4BE1-ABA9-A44C3804AAF2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C8F5CCC7-5411-42AB-A1A3-199608ED1046"
     }
   ],
   "name": "Calendar",
