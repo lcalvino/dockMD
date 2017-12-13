@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8E4586B7-6752-4EB4-A1EE-045E353B0FC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 318,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 25,
+  "masterInfluenceEdgeMaxYPadding": 35,
+  "masterInfluenceEdgeMinXPadding": 25,
+  "masterInfluenceEdgeMinYPadding": 15,
+  "name": "Banana",
+  "nameIsFixed": false,
+  "originalObjectID": "0A20C61C-03B7-4262-9095-3BCA1170FC18",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "35B0ACD1-D17F-4F9C-8F92-CA46A5B74430_stringValue",
+      "value": "These are you latest events"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ABA04790-2DFE-4934-97CF-AD9EAEC58529_stringValue",
+      "value": "These are you latest events"
+    }
+  ],
+  "overrides": {
+    "35B0ACD1-D17F-4F9C-8F92-CA46A5B74430": "These are you latest events",
+    "ABA04790-2DFE-4934-97CF-AD9EAEC58529": "These are you latest events"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E53D6D84-555D-40E1-983B-C0437C4F6E19",
+  "verticalSpacing": 0
+}

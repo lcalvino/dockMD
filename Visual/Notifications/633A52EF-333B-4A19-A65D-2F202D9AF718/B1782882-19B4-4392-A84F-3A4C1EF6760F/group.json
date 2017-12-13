@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "B1782882-19B4-4392-A84F-3A4C1EF6760F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 91,
+    "width": 556,
+    "x": 234,
+    "y": 570
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "80FDA122-9742-4231-8DCF-DABCE76EAABC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "75FC2A64-87E7-409C-A9E0-0F99C3095C99"
+    },
+    {
+      "class": "text",
+      "id": "FAD05F13-1877-4699-A50C-8BEE8897F3F6"
+    },
+    {
+      "class": "text",
+      "id": "09A2DA84-4695-429C-A5D3-F63161A727C9"
+    },
+    {
+      "class": "text",
+      "id": "82DCE74C-4522-414D-927A-D4E6CEBB8C62"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21D87850-DBC7-4708-8E79-B991DC7B5D14"
+    }
+  ],
+  "name": "Training",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

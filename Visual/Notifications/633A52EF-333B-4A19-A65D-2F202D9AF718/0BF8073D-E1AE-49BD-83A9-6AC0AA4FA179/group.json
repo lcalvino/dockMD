@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "0BF8073D-E1AE-49BD-83A9-6AC0AA4FA179",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 91,
+    "width": 556,
+    "x": 234,
+    "y": 671
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2A22DE1F-7533-40FD-A55D-D476E96AC594"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F2682644-C829-4833-8ED0-3427F344F855"
+    },
+    {
+      "class": "text",
+      "id": "97AC1EF4-9C42-4CB4-B708-58218690248B"
+    },
+    {
+      "class": "text",
+      "id": "B4C186DB-23B4-4420-8474-1F3A3910BD21"
+    },
+    {
+      "class": "group",
+      "id": "A90E582B-3665-4FAD-9FD3-1E0DA8BB7A82"
+    },
+    {
+      "class": "text",
+      "id": "0296BAB6-BAFC-45EE-B45F-F529EDAADA81"
+    }
+  ],
+  "name": "Locum tenes 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

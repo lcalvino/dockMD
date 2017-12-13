@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "03221D62-60DE-4F39-8A59-6FD8CB9F45E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 91,
+    "width": 556,
+    "x": 234,
+    "y": 772
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C4BB624E-3740-4079-B35E-0F40067542C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D45922D-0BD4-4406-B350-28F683754A43"
+    },
+    {
+      "class": "text",
+      "id": "FF716666-F0A4-4BBB-9526-2A047C3F6381"
+    },
+    {
+      "class": "text",
+      "id": "CC99EF28-2EA9-4E14-B4FE-E688D6D7D827"
+    },
+    {
+      "class": "text",
+      "id": "8093A338-CD0D-4CE7-935E-05360AB030E4"
+    },
+    {
+      "class": "group",
+      "id": "0795FACB-0F81-4546-A3C4-EF6CB962021B"
+    }
+  ],
+  "name": "Case review 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

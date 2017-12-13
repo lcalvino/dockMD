@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 60,
+  "changeIdentifier": 175,
   "do_objectID": "3B4F1C1D-4DA0-4B04-8AB2-12C346419A4F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -33
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,6 +50,10 @@
     {
       "class": "shapeGroup",
       "id": "A560F058-3BAF-4F84-90AA-299035774CCA"
+    },
+    {
+      "class": "text",
+      "id": "7EDBDC14-9EAC-4280-83F8-AD682DD1DC10"
     }
   ],
   "name": "Notifications Copy",
