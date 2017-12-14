@@ -31,8 +31,17 @@
   "name": "Search Bar",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "449CD2EC-7F12-4A73-8028-8F6FFFB56C68",
+      "overrideName": "C3A9FF04-30C7-4997-BC57-E61DAFF49EFA_symbolID",
+      "value": ""
+    }
   ],
   "overrides": {
+    "C3A9FF04-30C7-4997-BC57-E61DAFF49EFA": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
