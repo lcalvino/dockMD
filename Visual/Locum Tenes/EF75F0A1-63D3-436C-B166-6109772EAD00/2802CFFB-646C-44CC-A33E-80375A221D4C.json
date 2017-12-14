@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2802CFFB-646C-44CC-A33E-80375A221D4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 1024,
+    "x": 0,
+    "y": 1800
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 25,
+  "masterInfluenceEdgeMaxYPadding": 15,
+  "masterInfluenceEdgeMinXPadding": 25,
+  "masterInfluenceEdgeMinYPadding": 35,
+  "name": "Tab bar Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "0E8D6FBC-C150-4183-B2C9-ED87678D821A",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "76E711C9-2500-4A9B-8087-3FFB65054563_symbolID",
+      "value": "41021381-5C07-4F6F-910B-323F81F932BF"
+    }
+  ],
+  "overrides": {
+    "76E711C9-2500-4A9B-8087-3FFB65054563": {
+      "symbolID": "41021381-5C07-4F6F-910B-323F81F932BF"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4A681473-5D01-4875-B04C-6878373E85C3",
+  "verticalSpacing": 0
+}
