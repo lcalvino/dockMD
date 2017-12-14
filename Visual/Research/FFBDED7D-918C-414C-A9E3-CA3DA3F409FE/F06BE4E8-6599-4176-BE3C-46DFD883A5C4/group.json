@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "F06BE4E8-6599-4176-BE3C-46DFD883A5C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 28,
+    "width": 28,
+    "x": 105,
+    "y": 651
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FBDE7A6E-0C0F-487C-ADFE-1836F012A8DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA3E76B9-4851-4A2B-9170-5515364F114C"
+    }
+  ],
+  "name": "Play Button Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
