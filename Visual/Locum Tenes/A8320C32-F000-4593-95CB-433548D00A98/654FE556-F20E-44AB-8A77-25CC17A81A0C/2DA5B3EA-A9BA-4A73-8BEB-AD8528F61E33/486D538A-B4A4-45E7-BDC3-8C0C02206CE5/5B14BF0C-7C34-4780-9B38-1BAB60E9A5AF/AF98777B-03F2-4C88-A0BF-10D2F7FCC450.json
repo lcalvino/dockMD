@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AF98777B-03F2-4C88-A0BF-10D2F7FCC450",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 123.5323193916349,
+    "width": 137.4505494505501,
+    "x": 271.9969028261706,
+    "y": 489.4676806083659
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Calendar/date",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D6EFAFF5-15BA-475A-A8F4-4FE7C89BFB08_stringValue",
+      "value": "31"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1DD0B2BD-4A3A-4E8D-9F65-28708BA14778_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "1DD0B2BD-4A3A-4E8D-9F65-28708BA14778": {
+      "symbolID": ""
+    },
+    "D6EFAFF5-15BA-475A-A8F4-4FE7C89BFB08": "31"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "967D2C52-282F-41AB-AE1A-9DE532E3A9AE",
+  "verticalSpacing": 0
+}

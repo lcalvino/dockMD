@@ -70,7 +70,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/28e0035d496defe18d28c310716754bac54e7e6e",
+          "_ref": "images/4725da9f1733939fffd47f0afe5dff2f195beec2",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -86,7 +86,7 @@
   "userInfo": {
     "com.invisionlabs.duplicate": {
       "photos-duplicate": {
-        "category": "New York",
+        "category": "City",
         "icon": "diamond",
         "index": 6,
         "mode": "unsplash",

@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C60CCE8C-A4EA-4623-9DBE-4516F1874C70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 173,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 25,
+  "masterInfluenceEdgeMaxYPadding": 35,
+  "masterInfluenceEdgeMinXPadding": 25,
+  "masterInfluenceEdgeMinYPadding": 15,
+  "name": "Fragmented banana",
+  "nameIsFixed": false,
+  "originalObjectID": "ADDE1F8C-8268-407E-9654-FFAA04DF7D26",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E1C84FFD-DECA-433E-B70C-B23F8D4A70B6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9D021CDC-0CCF-422A-9089-26C27485F686_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26A80D20-D727-4166-9C56-E72D73458614/13230952-E802-4850-A517-2CF4FC42A436_stringValue",
+      "value": "Calendar"
+    }
+  ],
+  "overrides": {
+    "26A80D20-D727-4166-9C56-E72D73458614": {
+      "13230952-E802-4850-A517-2CF4FC42A436": "Calendar"
+    },
+    "9D021CDC-0CCF-422A-9089-26C27485F686": {
+      "symbolID": ""
+    },
+    "E1C84FFD-DECA-433E-B70C-B23F8D4A70B6": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E26BCA27-791E-4A2A-93EC-2182B7BE7581",
+  "verticalSpacing": 0
+}
