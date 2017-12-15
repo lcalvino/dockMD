@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 32,
-    "width": 32,
-    "x": 268,
-    "y": 2
+    "height": 42,
+    "width": 42,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -39,7 +39,7 @@
   "originalObjectID": "EF006EC3-AB1E-429C-91AD-706DAAA1E0F3",
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -90,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

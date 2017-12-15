@@ -21,7 +21,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": 30,
     "guides": [
     ]
   },
@@ -298,6 +298,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "B84BA166-4429-4A06-9678-8C61C921B1A9"
+    },
+    {
+      "class": "symbolMaster",
       "id": "610088E3-EFF6-4815-90FC-59ED13EF7FD4"
     },
     {
@@ -311,6 +315,10 @@
     {
       "class": "symbolMaster",
       "id": "22FD3B37-DE40-4321-890A-97DA98EC71B6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "09513218-B178-4836-AAA3-3879979F3637"
     }
   ],
   "name": "Symbols",

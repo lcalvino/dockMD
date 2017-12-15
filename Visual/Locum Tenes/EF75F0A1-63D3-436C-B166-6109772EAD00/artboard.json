@@ -35,7 +35,7 @@
     "y": -733
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -253,14 +253,6 @@
     {
       "class": "group",
       "id": "8500F3C1-8B6D-4738-8979-FB15289EDF5C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2802CFFB-646C-44CC-A33E-80375A221D4C"
-    },
-    {
-      "class": "group",
-      "id": "8F41D79F-7C23-4FA0-94F5-1291FEF504E9"
     },
     {
       "class": "text",
@@ -505,6 +497,18 @@
     {
       "class": "group",
       "id": "EC5428F2-8F05-4A8C-8234-75682B42321B"
+    },
+    {
+      "class": "group",
+      "id": "8F41D79F-7C23-4FA0-94F5-1291FEF504E9"
+    },
+    {
+      "class": "group",
+      "id": "D6E37606-3CBF-4F05-AD86-3535B6673B38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2802CFFB-646C-44CC-A33E-80375A221D4C"
     }
   ],
   "name": "Locum tenes",

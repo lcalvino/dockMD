@@ -13,26 +13,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 39,
-    "width": 834,
-    "x": 0,
-    "y": 6
+    "height": 42,
+    "width": 320,
+    "x": 628,
+    "y": 2
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "4572CCF5-4566-4326-B269-B70C7AD33890"
-    },
-    {
-      "class": "group",
-      "id": "5C7C8B24-51FD-4822-A890-F1DF82639BC4"
-    },
     {
       "class": "text",
       "id": "0A170F7A-7F38-4AD9-A578-DED8A9397CF4"
@@ -40,6 +32,10 @@
     {
       "class": "group",
       "id": "D627BB67-38D7-4CE9-9275-E1E8A6A4E61B"
+    },
+    {
+      "class": "group",
+      "id": "21E4B82F-C274-4FBB-8ED5-A9343C1E6DA4"
     }
   ],
   "name": "month_year",

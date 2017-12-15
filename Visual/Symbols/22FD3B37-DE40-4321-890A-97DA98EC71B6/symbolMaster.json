@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 353,
+  "changeIdentifier": 564,
   "do_objectID": "22FD3B37-DE40-4321-890A-97DA98EC71B6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 106,
     "width": 118,
-    "x": 34528,
-    "y": -73
+    "x": 34178,
+    "y": 47
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,11 +41,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "4B23EF1C-1838-4E07-ADFB-52D989032706"
+      "class": "shapeGroup",
+      "id": "C4FC9261-A11D-4434-9FEA-170DB665D240"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "705212C9-0933-4F51-9EF3-3E2111C3250A"
+    },
+    {
+      "class": "text",
+      "id": "443A5CC6-0B3E-4277-BBD3-CF2CCC809375"
     },
     {
       "class": "shapeGroup",
@@ -56,7 +64,7 @@
       "id": "8C21D41B-D2DE-4BEF-9B09-751D9A053B74"
     }
   ],
-  "name": "Calendar/date-available-to-work",
+  "name": "Calendar/date-available",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 106,
-    "width": 118,
-    "x": 350,
+    "height": 123.532319391635,
+    "width": 137.4505494505484,
+    "x": 407.692307692308,
     "y": 0
   },
   "horizontalSpacing": 0,
@@ -35,10 +35,37 @@
       "_class": "overrideValue",
       "overrideName": "D6EFAFF5-15BA-475A-A8F4-4FE7C89BFB08_stringValue",
       "value": "4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CAA0A78-F7BA-4E0B-920C-F02E9373224D",
+      "overrideName": "EA859BD8-51D4-4D8B-8E87-32A601FF0BE8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33680CCC-A53A-4DD8-A76C-87395EC28C2B",
+      "overrideName": "4AAFD1BD-32AA-44FB-84D9-86BB6B3914A8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F07E9FF4-514F-4E89-AD86-FB32A4B9812F",
+      "overrideName": "1DD0B2BD-4A3A-4E8D-9F65-28708BA14778_symbolID",
+      "value": ""
     }
   ],
   "overrides": {
-    "D6EFAFF5-15BA-475A-A8F4-4FE7C89BFB08": "4"
+    "1DD0B2BD-4A3A-4E8D-9F65-28708BA14778": {
+      "symbolID": ""
+    },
+    "4AAFD1BD-32AA-44FB-84D9-86BB6B3914A8": {
+      "symbolID": ""
+    },
+    "D6EFAFF5-15BA-475A-A8F4-4FE7C89BFB08": "4",
+    "EA859BD8-51D4-4D8B-8E87-32A601FF0BE8": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

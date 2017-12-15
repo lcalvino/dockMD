@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 106,
-    "width": 118,
-    "x": 233.5067750677508,
+    "height": 123.532319391635,
+    "width": 137.4505494505501,
+    "x": 271.9969028261706,
     "y": 0
   },
   "horizontalSpacing": 0,
@@ -35,9 +35,27 @@
       "_class": "overrideValue",
       "overrideName": "D6EFAFF5-15BA-475A-A8F4-4FE7C89BFB08_stringValue",
       "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4AA20C4C-A194-4C0D-8737-4B22495FCE4C",
+      "overrideName": "4AAFD1BD-32AA-44FB-84D9-86BB6B3914A8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D3810C3-DAC6-4B51-95C6-C304A08D74F1",
+      "overrideName": "1DD0B2BD-4A3A-4E8D-9F65-28708BA14778_symbolID",
+      "value": ""
     }
   ],
   "overrides": {
+    "1DD0B2BD-4A3A-4E8D-9F65-28708BA14778": {
+      "symbolID": ""
+    },
+    "4AAFD1BD-32AA-44FB-84D9-86BB6B3914A8": {
+      "symbolID": ""
+    },
     "D6EFAFF5-15BA-475A-A8F4-4FE7C89BFB08": "3"
   },
   "resizingConstraint": 63,
