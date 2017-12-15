@@ -55,10 +55,6 @@
       "id": "7D2ACA13-715E-4D7B-8F6F-25927FEA48BF"
     },
     {
-      "class": "text",
-      "id": "3A69E072-9E86-471C-8DF1-472E4D476827"
-    },
-    {
       "class": "group",
       "id": "B1DC4814-DB9D-4F10-B697-1425F2962FC3"
     },
@@ -81,6 +77,10 @@
     {
       "class": "symbolInstance",
       "id": "9AD86740-E5AA-47AD-AFD8-D4B57BF057C6"
+    },
+    {
+      "class": "text",
+      "id": "3A69E072-9E86-471C-8DF1-472E4D476827"
     }
   ],
   "name": "Locum tenes questionary-Calendar",
